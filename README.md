@@ -18,8 +18,9 @@ In this repository, you can learn the concept of embodied navigation and find th
 
 #### Multimodal
 
-- Embodied Perception Devices
-    - Regular Camera
+##### Embodied Perception Devices
+
+|-- Regular Camera --|
     - Fisheye Camera
     - 360 Camera
     - Infrared Camera

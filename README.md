@@ -6,7 +6,7 @@ In this repository, you can learn the concept of embodied navigation and find th
 - This project is still under construction.
 ## 1. Embodied Navigation Paradigm and Elements
 
-### 1.1 Definition and Core Tasks of Embodied Navigation
+### 1.1 Definition
 The **Embodied Navigation System** is a fully autonomous navigation system with interactive perception, neuromorphic cognition, and evolutionary motion capabilities.
 ### 1.2 Embodied Navigation Paradigm
 

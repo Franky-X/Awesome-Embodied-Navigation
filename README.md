@@ -22,12 +22,18 @@ In this repository, you can learn the concept of embodied navigation and find th
 
 |Modality| Regular Camera | Fisheye Camera | 360 Camera | Infrared Camera | Event Camera | LiDAR | Millimeter-wave Radar | GNSS |
 |--------|----------------|----------------|------------|-----------------|--------------|-------|-----------------------|------|
-|Features|
+|**Features**| Widely used | Wide FOV      | Omi FOV    | Night Vision    | High Dynamic | 3D Pointclouds| Weather | Global|
 
-- Multimodal Fusion Methods
-    - Filtering
-    - Optimization
-    - Learning
+##### Multimodal Fusion Methods
+###### Filter
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+###### Optimization
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+###### Learning
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
 
 #### Multitask
 

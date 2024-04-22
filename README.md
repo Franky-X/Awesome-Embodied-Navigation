@@ -20,6 +20,7 @@ In this repository, you can learn the concept of embodied navigation and find th
 
 - Embodied Perception Devices
     - Regular Camera
+  
 | Models   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
     - Fisheye Camera

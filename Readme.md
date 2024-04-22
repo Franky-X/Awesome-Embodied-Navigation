@@ -1,16 +1,17 @@
-# 1. Embodied Navigation Paradigm and Elements
+# Navigating the Physical World: A Survey of Embodied Navigation
+## 1. Embodied Navigation Paradigm and Elements
 
-## 1.1 Definition and Core Tasks of Embodied Navigation
+### 1.1 Definition and Core Tasks of Embodied Navigation
 
-## 1.2 Embodied Navigation Paradigm
+### 1.2 Embodied Navigation Paradigm
 
-## 1.3 Key Elements of Embodied Navigation
+### 1.3 Key Elements of Embodied Navigation
 
-# 2. Interactive Perception
+## 2. Interactive Perception
 
-## 2.1 Environmental Perception
+### 2.1 Environmental Perception
 
-### Multimodal
+#### Multimodal
 
 - Embodied Perception Devices
     - Regular Camera
@@ -26,7 +27,7 @@
     - Optimization
     - Learning
 
-### Multitask
+#### Multitask
 
 - Semantic Segmentation
     - 
@@ -37,9 +38,9 @@
 - Object Pose Estimation
     - 
 
-## 2.2 Ontological Perception
+### 2.2 Ontological Perception
 
-### Multi-node
+#### Multi-node
 
 - Embodied Carriers (Ontological Sensors, Observation Angles)
     - Vehicle
@@ -56,7 +57,7 @@
     - 6*nDoF
     - nDoF
 
-### Multi-state
+#### Multi-state
 
 - Master-Slave Node States
     - HPE
@@ -65,16 +66,16 @@
     - Optimization
     - Uncertainty in DL
 
-## 2.3 Multi-body Perception
+### 2.3 Multi-body Perception
 
-### Multi-agent
+#### Multi-agent
 
 - Collaborative Platforms
     - Multiple Drones
     - Drone + Unmanned Vehicle
     - Multiple Robotic Dogs
 
-### Multi-information
+#### Multi-information
 
 - Different Perspectives
     - Air-Ground Perspective
@@ -85,21 +86,21 @@
     - 3D-3D
     - 2D-2D
 
-## 2.4 Interactive Perception
+### 2.4 Interactive Perception
 
-### Body-Environment Interaction
+#### Body-Environment Interaction
 
 - Active Exploration
     - Active SLAM
     - Vision-Touch Fusion
 
-### Environment-Environment Interaction
+#### Environment-Environment Interaction
 
 - Place Recognition
     - Loop Closure
     - Relocalization
 
-### Multi-body Interaction
+#### Multi-body Interaction
 
 - Perception Association
     - Overlapping Matching
@@ -107,11 +108,11 @@
     - Information Compression
     - Transmission Medium
 
-# 3. Neuromorphic Cognition
+## 3. Neuromorphic Cognition
 
-## 3.1 Spatial Cognition
+### 3.1 Spatial Cognition
 
-### Spatial Representation
+#### Spatial Representation
 
 - Explicit
     - Voxels
@@ -121,70 +122,61 @@
     - NerF Series
     - 3D-GS
 
-### Spatial Storage
+#### Spatial Storage
 
 - Continuous Euclidean
     - High-Precision Maps
 - Topological Non-Euclidean
     - Cognitive Maps
 
-## 3.2 Ontological Cognition
+### 3.2 Ontological Cognition
 
-### Ontological Motion Representation
+#### Ontological Motion Representation
 
 - Classic
 - Learning
 
-### Ontological Motion Semantics
+#### Ontological Motion Semantics
 
 - Classification
 - Natural Language
 
-## 3.3 Task Cognition
+### 3.3 Task Cognition
 
-### Multilevel Cognition
+#### Multilevel Cognition
 
 - LLM
 
-### Multimodal Cognition
+#### Multimodal Cognition
 
 - Multimodal
 
-## 3.4 Full Cognition Fusion
+### 3.4 Full Cognition Fusion
 
-### Cognitive Association
+#### Cognitive Association
 
-### Cognitive Evolution
+#### Cognitive Evolution
 
-# 4. Motion Execution
+## 4. Motion Execution
 
-## 4.1 Ontological Skills
+### 4.1 Ontological Skills
 
-### Meta-Skills (Meaning, Definition, Classification in Multi-Carrier)
+#### Meta-Skills (Meaning, Definition, Classification in Multi-Carrier)
 
 - Traditional Platforms: Drone, Unmanned Vehicle, Quadruped Platform
 - Skill Types: Fly, Run, Walk...
 - Relationship between Skills and Terrain Passability
 
-### Multi-Skill Learning
+#### Multi-Skill Learning
 
 - Transfer
 - Reinforcement
 
-## 4.2 Planning and Control
+### 4.2 Planning and Control
 
-### Path Planning
+#### Path Planning
 
 - Classic Path Planning
-    
-    > Reference Papers
-    > 
-    > 
-    > [1]C. Badue, R. Guidolini, R. V. Carneiro, P. Azevedo, V. B.Cardoso, A. Forechi, L. Jesus, R. Berriel, T. M. Paixao, F. Mutz et al., “Self-driving cars: A survey,” Expert Systems with
-    > Applications, vol. 165, p. 113816, 2021.
-    > 
-    > [2]Chen, Long, et al. "Milestones in autonomous driving and intelligent vehicles: Survey of surveys." *IEEE Transactions on Intelligent Vehicles* 8.2 (2022): 1046-1056.
-    > 
     - Graph Search Based
     - Interpolating Curve Based
     - Sampling Based
@@ -194,33 +186,26 @@
     - Self-Supervised Learning
     - Reinforcement Learning
 
-### Motion Control
+#### Motion Control
 
-- Single-Body Control (Issues Representable by Traditional Models)
-    - Traditional Motion Control
-    - Reinforcement Learning Control
+- Single-Body Control 
 - Cluster Control
-    - Formation Control
-    - 
 
-## 4.3 Morphological Coordination
 
-### Morphological Transformation
+### 4.3 Morphological Coordination
 
-Wheel-Leg Navigation[[1]](https://www.youtube.com/watch?v=kEdr0ARq48A)
+#### Morphological Transformation
 
-Flying Wheeled Navigation [[1]](https://www.youtube.com/watch?v=_KhqTl2Vlqc&list=UULFZCiYlp2JBzeBFaUSdh3ymQ&index=20)
+#### Agile Coordination
 
-### Agile Coordination
+## 5. Platforms and Data
 
-# 5. Platforms and Data
+### 5.1 Hardware Platforms
 
-## 5.1 Hardware Platforms
+### 5.2 Simulation Platforms
 
-## 5.2 Simulation Platforms
+### 5.3 Open Datasets
 
-## 5.3 Open Datasets
+## 6. Challenges in Embodied Navigation
 
-# 6. Challenges in Embodied Navigation
-
-# 7. Conclusion and Outlook
+## 7. Conclusion and Outlook

@@ -9,7 +9,7 @@ In this repository, you can learn the concept of embodied navigation and find th
 ### 1.1 Definition
 The **Embodied Navigation System** is a fully autonomous navigation system with interactive perception, neuromorphic cognition, and evolutionary motion capabilities.
 ### 1.2 Embodied Navigation Paradigm
-
+![image](images/paradigm.png)
 ### 1.3 Key Elements of Embodied Navigation
 
 ## 2. Interactive Perception

@@ -1,4 +1,5 @@
 # Navigating the Physical World: A Survey of Embodied Navigation
+This is a repository of our embodied navigation survey.
 ## 1. Embodied Navigation Paradigm and Elements
 
 ### 1.1 Definition and Core Tasks of Embodied Navigation

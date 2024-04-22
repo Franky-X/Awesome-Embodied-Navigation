@@ -7,7 +7,7 @@ In this repository, you can learn the concept of embodied navigation and find th
 ## 1. Embodied Navigation Paradigm and Elements
 
 ### 1.1 Definition and Core Tasks of Embodied Navigation
-
+The **Embodied Navigation System** is a fully autonomous navigation system with interactive perception, neuromorphic cognition, and evolutionary motion capabilities.
 ### 1.2 Embodied Navigation Paradigm
 
 ### 1.3 Key Elements of Embodied Navigation
@@ -36,18 +36,20 @@ In this repository, you can learn the concept of embodied navigation and find th
 |----------|----|------------|------|---|
 
 #### Multitask
-
-- Semantic Segmentation
-    - 
-- Object Recognition
-    - 
-- Place Recognition
-    - 
-- Object Pose Estimation
-    - 
+##### Semantic Segmentation
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+##### Object Recognition
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+##### Place Recognition
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+##### Object Pose Estimation
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
 
 ### 2.2 Ontological Perception
-
 #### Multi-node
 
 - Embodied Carriers (Ontological Sensors, Observation Angles)

@@ -20,14 +20,10 @@ In this repository, you can learn the concept of embodied navigation and find th
 
 ##### Embodied Perception Devices
 
-|-- Regular Camera --|
-    - Fisheye Camera
-    - 360 Camera
-    - Infrared Camera
-    - Event Camera
-    - LiDAR
-    - Millimeter-wave Radar
-    - GNSS
+|Modality| Regular Camera | Fisheye Camera | 360 Camera | Infrared Camera | Event Camera | LiDAR | Millimeter-wave Radar | GNSS |
+|--------|----------------|----------------|------------|-----------------|--------------|-------|-----------------------|------|
+|Features|
+
 - Multimodal Fusion Methods
     - Filtering
     - Optimization

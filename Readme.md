@@ -1,5 +1,6 @@
 # Navigating the Physical World: A Survey of Embodied Navigation
-This is a repository of embodied navigation survey led by MSP group from Shanghai Jiao Tong University.
+This is a repository of embodied navigation survey led by **MSP** group from Shanghai Jiao Tong University. 
+
 In this repository, you can learn the concept of embodied navigation and find the state-of-the-arts works related to this topic.
 ## 1. Embodied Navigation Paradigm and Elements
 

@@ -3,7 +3,7 @@ This is a repository of embodied navigation survey led by **MSP** group from Sha
 
 In this repository, you can learn the concept of embodied navigation and find the state-of-the-arts works related to this topic.
 ## Call for Cooperators: Join Us in Advancing Embodied Navigation Research
-We are excited to invite researchers and experts in the field of embodied navigation to collaborate on an innovative paper aimed at pushing the boundaries of autonomous navigation systems. Our goal is to explore the intersection of interactive perception, neuromorphic cognition, and evolutionary motion capabilities in the development of cutting-edge embodied navigation systems.
+We are excited to invite researchers and experts in the field of embodied navigation to collaborate on an innovative paper aimed at pushing the boundaries of autonomous navigation systems. Our goal is to explore the intersection of interactive perception, neuromorphic cognition, and evolutionary motion capabilities in the development of cutting-edge embodied navigation systems.(Contact: sjtu4742986@sjtu.edu.cn)
 
 ## 1. Embodied Navigation Paradigm and Elements
 

@@ -16,6 +16,18 @@ Given an intelligent agent with a certain degree of freedom, which follows speci
 The primary characteristic of this paradigm lies in the **joint optimization and solving of the agent's state, environmental state, and agent motion**. In contrast to prior navigation methods that may have focused solely on optimizing the agent's state, or SLAM problems which crucially consider the agent and environment, embodied navigation **additionally optimizes its own motion execution**.
 ### 1.3 Key Elements of Embodied Navigation
 
+|Embodied Navigation|Traditional Navigation|
+|-------------------|----------------------|
+|Ego-centric|Global Axis|
+|Multi Nodes, n-DoF|Single Node, <=6DoF|
+|Evolved Motion Skills|Fixed Movement|
+|Autonomous Task Decomposition and Multi-Task Joint Optimization|Manual Task Decomposition for Individual Optimization|
+|First Principles|Engineering-Oriented Approach|
+|Weak Metricity|Precise Metricity|
+|Active Interaction Between Agent and Environment|Passive Perception|
+
+
+
 ## 2. Interactive Perception
 
 ### 2.1 Environmental Perception

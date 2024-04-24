@@ -156,14 +156,14 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 - Topological Non-Euclidean
     - Cognitive Maps
 
-### 3.2 Ontological Cognition
+### 3.2 Proprioceptive Cognition
 
-#### Ontological Motion Representation
+#### Proprioceptive Motion Representation
 
 - Classic
 - Learning
 
-#### Ontological Motion Semantics
+#### Proprioceptive Motion Semantics
 
 - Classification
 - Natural Language

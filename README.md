@@ -11,8 +11,8 @@ We are excited to invite researchers and experts in the field of embodied naviga
 The **Embodied Navigation System** is a fully autonomous navigation system with **Interactive Perception**, **Neuromorphic Cognition**, and **Motion Execution** capabilities.
 ![image](images/Definition.png)
 ### 1.2 Embodied Navigation Paradigm
-![image](images/Paradigm.png)
 Given an intelligent agent with a certain degree of freedom, which follows specific motion rules and has hardware parameters, equipped with sensors capable of acquiring extensive environmental observations, we aim to establish a differentiable objective function. This function is designed for joint optimization of the state space and motion space, providing outputs for environment state, motion execution, and agent state.
+![image](images/Paradigm.png)
 
 The primary characteristic of this paradigm lies in the **joint optimization and solving of the agent's state, environmental state, and agent motion**. In contrast to prior navigation methods that may have focused solely on optimizing the agent's state, or SLAM problems which crucially consider the agent and environment, embodied navigation **additionally optimizes its own motion execution**.
 ### 1.3 Key Elements of Embodied Navigation

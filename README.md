@@ -66,7 +66,7 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 | Algorithms   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
 
-### 2.2 Ontological Perception
+### 2.2 Proprioceptive Perception
 #### Multi-node
 
 - Embodied Carriers (Ontological Sensors, Observation Angles)

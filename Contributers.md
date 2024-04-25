@@ -4,5 +4,9 @@
 
 **Main Organizer**: Chaoran Xiong, PhD Candidate (https://franky-x.github.io/cv/)
 
+**Motor Execution Section**: 
+
+- Kehui Ma, PhD Student (https://github.com/SJTU-MKH)
+
 ## Tsinghua University
 Fangwen Yu, Assistant research fellow (https://www.yufangwen.com/)

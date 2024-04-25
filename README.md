@@ -1,7 +1,12 @@
 # Navigating the Physical World: A Survey of Embodied Navigation
-This is a repository of embodied navigation survey led by **MSP** group from Shanghai Jiao Tong University. 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
-In this repository, you can learn the concept of embodied navigation and find the state-of-the-arts works related to this topic.
+This is a repository of embodied navigation survey **led by MSP group from Shanghai Jiao Tong University**. 
+
+In this repository, you can learn the concept of embodied navigation and find the state-of-the-arts works related to this topic. 
+
+If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️.
 ## Call for Cooperators: Join Us in Advancing Embodied Navigation Research
 We are excited to invite researchers and experts in the field of embodied navigation to collaborate on an innovative paper aimed at pushing the boundaries of autonomous navigation systems. Our goal is to explore the intersection of interactive perception, neuromorphic cognition, and evolutionary motion capabilities in the development of cutting-edge embodied navigation systems.(Contact: sjtu4742986@sjtu.edu.cn)
 

@@ -72,14 +72,13 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 |Humanoid Robot|
 
 
-#### Multi-state
+#### Tasks of Proprioceptive Perception
 
-- Master-Slave Node States
-    - HPE
-- Uncertainty Estimation
-    - Filtering
-    - Optimization
-    - Uncertainty in DL
+| Tasks | State  | Algorithms  |Date| Publication| Paper | Code |
+| ------|----------|----|------------|------|---|--|
+|**Single State**| | | | | |
+|**Multi State**| | | | | |
+|**Uncertainty**| | | | | |
 
 ### 2.3 Multi-body Perception
 

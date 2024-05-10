@@ -38,13 +38,13 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 ### 2.1 Environmental Perception
 
-#### List of Modalities
+#### Features of Modalities
 
 |Modality| Regular Camera | Fisheye Camera | 360 Camera | Infrared Camera | Event Camera | LiDAR | Millimeter-wave Radar | GNSS Receiver |
 |--------|----------------|----------------|------------|-----------------|--------------|-------|-----------------------|------|
 |**Features**| Widely used | Wide FOV      | Omi FOV    | Night Vision    | High Dynamic | 3D Pointclouds| Weather | Global|
 
-#### Tasks
+#### Tasks of Modalities
 ##### 
 | Tasks | Algorithms   | Modality |Date| Publication| Paper | Code |
 | ------|----------|----|------------|------|---|--|
@@ -53,9 +53,7 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 |**Object Detection**| | | | | |
 |**Place Recognition**| | | | | |
 
-
-
-##### Fusion
+##### Fusion of Modalities
 | Algorithms   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
 ###### Optimization

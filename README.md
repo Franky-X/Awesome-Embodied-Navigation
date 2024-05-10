@@ -46,8 +46,8 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 #### Tasks
 ##### 
-| Tasks | Algorithms   |Date| Publication| Paper | Code |
-| ------|----------|----|------------|------|---|
+| Tasks | Algorithms   | Modality |Date| Publication| Paper | Code |
+| ------|----------|----|------------|------|---|--|
 |**Odometry**| | | | | |
 |**Semantic Segmentation**| | | | | |
 |**Object Detection**| | | | | |

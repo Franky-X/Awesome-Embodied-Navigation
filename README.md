@@ -63,22 +63,14 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 
 ### 2.2 Proprioceptive Perception
-#### Multi-node
+#### Embodied Entities
+| Entities | Sensors | Degree of Freedom |
+|-----|----------|----|
+|Car|
+|Drone|
+|Legged Robot|
+|Humanoid Robot|
 
-- Embodied Carriers (Ontological Sensors, Observation Angles)
-    - Vehicle
-    - Robotic Dog
-    - Drone
-    - Humanoid Robot
-    - IMU
-    - Tactile Sensors
-    - Angular Encoders
-    - Motor Encoders
-- Degree of Freedom Estimation
-    - 3-DoF
-    - 6-DoF
-    - 6*nDoF
-    - nDoF
 
 #### Multi-state
 

@@ -53,15 +53,12 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 |**Object Detection**| | | | | |
 |**Place Recognition**| | | | | |
 
-##### Fusion of Modalities
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-###### Optimization
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-###### Learning
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
+#### Fusion of Modalities
+| Scheme | Algorithms   |Date| Publication| Paper | Code |
+|-----|----------|----|------------|------|---|
+|**Kalman Filter**| | | | | |
+|**Optimization**| | | | | |
+|**Neural Network**| | | | | |
 
 
 

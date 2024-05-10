@@ -58,6 +58,9 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 |----------|----|------------|------|---|
 
 #### Multitask
+##### Odometry
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
 ##### Semantic Segmentation
 | Algorithms   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|

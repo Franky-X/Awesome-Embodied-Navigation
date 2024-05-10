@@ -38,7 +38,7 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 ### 2.1 Environmental Perception
 
-#### Modalities
+#### List of Modalities
 
 |Modality| Regular Camera | Fisheye Camera | 360 Camera | Infrared Camera | Event Camera | LiDAR | Millimeter-wave Radar | GNSS Receiver |
 |--------|----------------|----------------|------------|-----------------|--------------|-------|-----------------------|------|

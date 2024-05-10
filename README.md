@@ -45,21 +45,14 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 |**Features**| Widely used | Wide FOV      | Omi FOV    | Night Vision    | High Dynamic | 3D Pointclouds| Weather | Global|
 
 #### Tasks
-##### Odometry
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-##### Semantic Segmentation
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-##### Object Recognition
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-##### Place Recognition
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-##### Object Pose Estimation
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
+##### 
+| Tasks | Algorithms   |Date| Publication| Paper | Code |
+| ------|----------|----|------------|------|---|
+|**Odometry**| | | | | |
+|**Semantic Segmentation**| | | | | |
+|**Object Detection**| | | | | |
+|**Place Recognition**| | | | | |
+
 
 
 ##### Fusion

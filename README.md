@@ -38,26 +38,13 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 ### 2.1 Environmental Perception
 
-#### Multimodal
-
-##### Embodied Perception Devices
+#### Modalities
 
 |Modality| Regular Camera | Fisheye Camera | 360 Camera | Infrared Camera | Event Camera | LiDAR | Millimeter-wave Radar | GNSS Receiver |
 |--------|----------------|----------------|------------|-----------------|--------------|-------|-----------------------|------|
 |**Features**| Widely used | Wide FOV      | Omi FOV    | Night Vision    | High Dynamic | 3D Pointclouds| Weather | Global|
 
-##### Multimodal Fusion Methods
-###### Filter
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-###### Optimization
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-###### Learning
-| Algorithms   |Date| Publication| Paper | Code |
-|----------|----|------------|------|---|
-
-#### Multitask
+#### Tasks
 ##### Odometry
 | Algorithms   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
@@ -73,6 +60,19 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 ##### Object Pose Estimation
 | Algorithms   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
+
+
+##### Fusion
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+###### Optimization
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+###### Learning
+| Algorithms   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+
+
 
 ### 2.2 Proprioceptive Perception
 #### Multi-node

@@ -42,7 +42,7 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 ##### Embodied Perception Devices
 
-|Modality| Regular Camera | Fisheye Camera | 360 Camera | Infrared Camera | Event Camera | LiDAR | Millimeter-wave Radar | GNSS |
+|Modality| Regular Camera | Fisheye Camera | 360 Camera | Infrared Camera | Event Camera | LiDAR | Millimeter-wave Radar | GNSS Receiver |
 |--------|----------------|----------------|------------|-----------------|--------------|-------|-----------------------|------|
 |**Features**| Widely used | Wide FOV      | Omi FOV    | Night Vision    | High Dynamic | 3D Pointclouds| Weather | Global|
 

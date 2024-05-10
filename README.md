@@ -38,13 +38,13 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 ### 2.1 Environmental Perception
 
-#### Features of Modalities
+#### Features of Modality
 
 |Modality| Regular Camera | Fisheye Camera | 360 Camera | Infrared Camera | Event Camera | LiDAR | Millimeter-wave Radar | GNSS Receiver |
 |--------|----------------|----------------|------------|-----------------|--------------|-------|-----------------------|------|
 |**Features**| Widely used | Wide FOV      | Omi FOV    | Night Vision    | High Dynamic | 3D Pointclouds| Weather | Global|
 
-#### Tasks of Modalities
+#### Tasks of Modality
 ##### 
 | Tasks | Modality  | Algorithms  |Date| Publication| Paper | Code |
 | ------|----------|----|------------|------|---|--|
@@ -53,7 +53,7 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 |**Object Detection**| | | | | |
 |**Place Recognition**| | | | | |
 
-#### Fusion of Modalities
+#### Fusion of Modality
 | Scheme | Algorithms   |Date| Publication| Paper | Code |
 |-----|----------|----|------------|------|---|
 |**Kalman Filter**| | | | | |
@@ -63,7 +63,7 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 
 ### 2.2 Proprioceptive Perception
-#### Embodied Entities
+#### Embodied Entity
 | Entities | Sensors | Degree of Freedom |
 |-----|----------|----|
 |Car|

@@ -136,28 +136,6 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-### 2.4 Interactive Perception
-
-#### Body-Environment Interaction
-
-- Active Exploration
-    - Active SLAM
-    - Vision-Touch Fusion
-
-#### Environment-Environment Interaction
-
-- Place Recognition
-    - Loop Closure
-    - Relocalization
-
-#### Multi-body Interaction
-
-- Perception Association
-    - Overlapping Matching
-- Communication
-    - Information Compression
-    - Transmission Medium
-
 ## 3. Neuromorphic Cognition
 
 ### 3.1 Spatial Cognition

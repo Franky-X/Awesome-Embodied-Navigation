@@ -198,53 +198,51 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 ## 4. Motion Execution
 
-### 4.1 Ontological Skills
+### Skills -
 
-#### Meta-Skills (Meaning, Definition, Classification in Multi-Carrier)
+#### Meta
 
-- Traditional Platforms: Drone, Unmanned Vehicle, Quadruped Platform
-- Skill Types: Fly, Run, Walk...
-- Relationship between Skills and Terrain Passability
+#### Combination
 
-#### Multi-Skill Learning
+### Planning
 
-- Transfer
-- Reinforcement
+| Algorithm | Modality | DoF | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- | --- |
+| iPlanner | Depth | 2-D | 2023 | RSS | https://www.roboticsproceedings.org/rss19/p064.html |  |
+| ViPlanner | RGB-D | 2-D | 2024 | ICRA | https://leggedrobotics.github.io/viplanner.github.io/ |  |
+| DTC: Deep Tracking Control | Depth | 12-D | 2024 | Science Robotics | https://www.science.org/doi/10.1126/scirobotics.adh5401 |  |
+| Neural RRT* | RGB | 2-D | 2020 | IEEE Transactions on Automation Science and Engineering | https://ieeexplore.ieee.org/abstract/document/9037111 |  |
+| Socially aware motion planning with deep reinforcement learning | Stereo RGB | 2-D | 2017 | IROS | https://ieeexplore.ieee.org/abstract/document/8202312 |  |
+| Efficient Autonomous Exploration Planning of Large-Scale 3-D Environments | RGB | 3-D | 2019 | RAL | https://ieeexplore.ieee.org/abstract/document/8633925 |  |
+|  |  |  |  |  |  |  |
 
-### 4.2 Planning and Control
+### Morphological Collabration -Morphologic
 
-#### Path Planning
-
-- Classic Path Planning
-    - Graph Search Based
-    - Interpolating Curve Based
-    - Sampling Based
-    - Numerical Optimization Based
-- Learning-Based Path Planning
-    - Supervised Learning
-    - Self-Supervised Learning
-    - Reinforcement Learning
-
-#### Motion Control
-
-- Single-Body Control 
-- Cluster Control
-
-
-### 4.3 Morphological Coordination
-
-#### Morphological Transformation
-
-#### Agile Coordination
+| Algorithm | Morphologic | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+| Learning Robust Autonomous Navigation and Locomotion for Wheeled-legged Robots | Wheel-leg | 2024 | Science Robotics | https://www.science.org/stoken/author-tokens/ST-1825/full |  |
+| SytaB | Ground-Air | 2022 | RAL | https://ieeexplore.ieee.org/abstract/document/9832723 |  |
+| Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces | ground-air-water | 2022 | Science Robotics | https://www.science.org/doi/full/10.1126/scirobotics.abm6695 |  |
+| Advanced Skills through Multiple Adversarial Motion Priors in
+Reinforcement Learning | Wheel-leg | 2023 | ICRA | https://www.youtube.com/watch?v=kEdr0ARq48A |  |
+| Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks | Wheel-leg | 2023 | PMLR | https://proceedings.mlr.press/v229/schwarke23a.html |  |
+| Offline motion libraries and online MPC for advanced mobility skills | Wheel-leg | 2022 | IJRR | https://journals.sagepub.com/doi/full/10.1177/02783649221102473 |  |
+| Whole-body mpc and online gait sequence generation for wheeled-legged robots | Wheel-leg | 2021 | IROS | https://ieeexplore.ieee.org/abstract/document/9636371 |  |
+| Skywalker | Ground-Air | 2023 | RAL |  |  |
+| Autonomous and Adaptive Navigation for Terrestrial-Aerial Bimodal Vehicles | Ground-Air | 2022 | RAL | https://ieeexplore.ieee.org/abstract/document/9691888 |  |
 
 ## 5. Platforms and Data
 
-### 5.1 Hardware Platforms
+### Simulation
 
-### 5.2 Simulation Platforms
+### Reality
 
-### 5.3 Open Datasets
+## 6. Open Research Problems
 
-## 6. Challenges in Embodied Navigation
+### Adaptive Scale and Complex Environment
 
-## 7. Conclusion and Outlook
+### Joint Optimization
+
+### Generality
+
+## 6. Conclusions

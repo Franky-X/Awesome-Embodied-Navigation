@@ -74,43 +74,67 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 
 
-### 2.2 Proprioceptive Perception
-#### Embodied Entity
-| Entities | Sensors | Degree of Freedom |
-|-----|----------|----|
-|Car|
-|Drone|
-|Legged Robot|
-|Humanoid Robot|
+### Ego State -Body
+
+#### Wheeled Vehicle
+
+| Algorithm | Modality | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+| Doppler-only Single-scan 3D Vehicle Odometry | Radar | 2023 | ArXiv | [Link](https://arxiv.org/abs/2310.04113) |  |
+| PhaRaO | Radar | 2020 | ICRA | [Link](https://ieeexplore.ieee.org/document/9197231/) |  |
+| RadarSLAM | Radar | 2020 | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/9341287?casa_token=4_fyBqP1zNMAAAAA:HSNPEsdToMbn01O6omMm5OadK2fAS9Gq__dcFqXpxvIppWtZU-ERASPj-5fgAhotDYvaCOrf5A) |  |
+| 4DRadarSLAM | Radar | 2023 | ICRA | [Link](https://ieeexplore.ieee.org/document/10160670/) | [Code](https://github.com/zhuge2333/4DRadarSLAM) |
+| LIC-Fusion | Lidar-IMU-Cam | 2019 | IROS | [Link](https://ieeexplore.ieee.org/document/8967746/) |  |
+| LIC-Fusion 2.0 | Lidar-IMU-Cam | 2020 | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/9340704) |  |
+| Faster-LIO | Lidar-IMU | 2022 | RAL | [Link](https://ieeexplore.ieee.org/abstract/document/9718203) | [Code](http://github.com/gaoxiang12/faster-lio) |
+| LOAM | Lidar | 2014 | RSS | [Link](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf) |  |
+| LeGO-LOAM | Lidar | 2018 | IROS | [Link](https://ieeexplore.ieee.org/document/8594299) |  |
 
 
-#### Tasks of Proprioceptive Perception
+#### Drone
 
-| Tasks | State  | Algorithms  |Date| Publication| Paper | Code |
-| ------|----------|----|------------|------|---|--|
-|**Single State**| | | | | |
-|**Multi State**| | | | | |
-|**Uncertainty**| | | | | |
+| Algorithm | Modality | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+| Fast-LIO | Lidar-IMU | 2021 | RAL | https://ieeexplore.ieee.org/abstract/document/9372856 | https://github.com/hku-mars/FAST_LIO |
+|  |  |  |  |  |  |
 
-### 2.3 Multi-body Perception
+#### Legged Robot
 
-#### Multi-agent
+| Algorithm | Modality | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+| Direct LiDAR Odometry | LiDAR | 2022 | RAL | https://ieeexplore.ieee.org/document/9681177 |  |
+|  |  |  |  |  |  |
 
-- Collaborative Platforms
-    - Multiple Drones
-    - Drone + Unmanned Vehicle
-    - Multiple Robotic Dogs
+#### Humanoid/Human
 
-#### Multi-information
+| Algorithm | Modality | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
-- Different Perspectives
-    - Air-Ground Perspective
-    - Ground-Ground Perspective
-    - Air-Air Perspective
-- Heterogeneous Modality Information
-    - 2D-3D
-    - 3D-3D
-    - 2D-2D
+
+### Collabrative Sensing -View
+
+#### Sky-Ground
+
+| Algorithm | Modality | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+#### Sky-Sky
+
+| Algorithm | Modality | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+#### Ground-Ground
+
+| Algorithm | Modality | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ### 2.4 Interactive Perception
 

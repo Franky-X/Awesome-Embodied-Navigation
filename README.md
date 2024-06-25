@@ -208,28 +208,28 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 | Algorithm | Modality | DoF | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- | --- |
-| iPlanner | Depth | 2-D | 2023 | RSS | https://www.roboticsproceedings.org/rss19/p064.html |  |
-| ViPlanner | RGB-D | 2-D | 2024 | ICRA | https://leggedrobotics.github.io/viplanner.github.io/ |  |
-| DTC: Deep Tracking Control | Depth | 12-D | 2024 | Science Robotics | https://www.science.org/doi/10.1126/scirobotics.adh5401 |  |
-| Neural RRT* | RGB | 2-D | 2020 | IEEE Transactions on Automation Science and Engineering | https://ieeexplore.ieee.org/abstract/document/9037111 |  |
-| Socially aware motion planning with deep reinforcement learning | Stereo RGB | 2-D | 2017 | IROS | https://ieeexplore.ieee.org/abstract/document/8202312 |  |
-| Efficient Autonomous Exploration Planning of Large-Scale 3-D Environments | RGB | 3-D | 2019 | RAL | https://ieeexplore.ieee.org/abstract/document/8633925 |  |
+| iPlanner | Depth | 2-D | 2023 | RSS | [link](https://www.roboticsproceedings.org/rss19/p064.html) |  |
+| ViPlanner | RGB-D | 2-D | 2024 | ICRA | [link](https://leggedrobotics.github.io/viplanner.github.io/) |  |
+| DTC: Deep Tracking Control | Depth | 12-D | 2024 | Science Robotics | [link](https://www.science.org/doi/10.1126/scirobotics.adh5401) |  |
+| Neural RRT* | RGB | 2-D | 2020 | IEEE Transactions on Automation Science and Engineering | [link](https://ieeexplore.ieee.org/abstract/document/9037111) |  |
+| Socially aware motion planning with deep reinforcement learning | Stereo RGB | 2-D | 2017 | IROS | [link](https://ieeexplore.ieee.org/abstract/document/8202312) |  |
+| Efficient Autonomous Exploration Planning of Large-Scale 3-D Environments | RGB | 3-D | 2019 | RAL | [link](https://ieeexplore.ieee.org/abstract/document/8633925) |  |
 |  |  |  |  |  |  |  |
 
 ### Morphological Collabration -Morphologic
 
 | Algorithm | Morphologic | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
-| Learning Robust Autonomous Navigation and Locomotion for Wheeled-legged Robots | Wheel-leg | 2024 | Science Robotics | https://www.science.org/stoken/author-tokens/ST-1825/full |  |
+| Learning Robust Autonomous Navigation and Locomotion for Wheeled-legged Robots | Wheel-leg | 2024 | Science Robotics | [link](https://www.science.org/stoken/author-tokens/ST-1825/full) |  |
 | SytaB | Ground-Air | 2022 | RAL | https://ieeexplore.ieee.org/abstract/document/9832723 |  |
-| Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces | ground-air-water | 2022 | Science Robotics | https://www.science.org/doi/full/10.1126/scirobotics.abm6695 |  |
+| Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces | ground-air-water | 2022 | Science Robotics | [link](https://www.science.org/doi/full/10.1126/scirobotics.abm6695) |  |
 | Advanced Skills through Multiple Adversarial Motion Priors in
-Reinforcement Learning | Wheel-leg | 2023 | ICRA | https://www.youtube.com/watch?v=kEdr0ARq48A |  |
-| Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks | Wheel-leg | 2023 | PMLR | https://proceedings.mlr.press/v229/schwarke23a.html |  |
-| Offline motion libraries and online MPC for advanced mobility skills | Wheel-leg | 2022 | IJRR | https://journals.sagepub.com/doi/full/10.1177/02783649221102473 |  |
-| Whole-body mpc and online gait sequence generation for wheeled-legged robots | Wheel-leg | 2021 | IROS | https://ieeexplore.ieee.org/abstract/document/9636371 |  |
+Reinforcement Learning | Wheel-leg | 2023 | ICRA | [link](https://www.youtube.com/watch?v=kEdr0ARq48A) |  |
+| Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks | Wheel-leg | 2023 | PMLR | [link](https://proceedings.mlr.press/v229/schwarke23a.html) |  |
+| Offline motion libraries and online MPC for advanced mobility skills | Wheel-leg | 2022 | IJRR | [link](https://journals.sagepub.com/doi/full/10.1177/02783649221102473) |  |
+| Whole-body mpc and online gait sequence generation for wheeled-legged robots | Wheel-leg | 2021 | IROS | [link](https://ieeexplore.ieee.org/abstract/document/9636371) |  |
 | Skywalker | Ground-Air | 2023 | RAL |  |  |
-| Autonomous and Adaptive Navigation for Terrestrial-Aerial Bimodal Vehicles | Ground-Air | 2022 | RAL | https://ieeexplore.ieee.org/abstract/document/9691888 |  |
+| Autonomous and Adaptive Navigation for Terrestrial-Aerial Bimodal Vehicles | Ground-Air | 2022 | RAL | [link](https://ieeexplore.ieee.org/abstract/document/9691888) |  |
 
 ## 5. Platforms and Data
 

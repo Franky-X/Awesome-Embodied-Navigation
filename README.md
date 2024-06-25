@@ -188,6 +188,13 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 | MotionGPT | IMU | 2023 | NIPS | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3fbf0c1ea0716c03dea93bb6be78dd6f-Abstract-Conference.html) |  |
 | IMUGPT 2.0 | IMU | 2024 | ArXiv | [link](https://arxiv.org/abs/2402.01049) |  |
 
+### Goal Understanding -Type
+
+#### Point
+
+#### Image
+
+#### Object
 
 ## 4. Motion Execution
 

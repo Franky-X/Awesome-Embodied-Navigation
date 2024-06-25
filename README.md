@@ -221,7 +221,7 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 | Algorithm | Morphologic | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
 | Learning Robust Autonomous Navigation and Locomotion for Wheeled-legged Robots | Wheel-leg | 2024 | Science Robotics | [link](https://www.science.org/stoken/author-tokens/ST-1825/full) |  |
-| SytaB | Ground-Air | 2022 | RAL | https://ieeexplore.ieee.org/abstract/document/9832723 |  |
+| SytaB | Ground-Air | 2022 | RAL | [link](https://ieeexplore.ieee.org/abstract/document/9832723) |  |
 | Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces | ground-air-water | 2022 | Science Robotics | [link](https://www.science.org/doi/full/10.1126/scirobotics.abm6695) |  |
 | Advanced Skills through Multiple Adversarial Motion Priors in
 Reinforcement Learning | Wheel-leg | 2023 | ICRA | [link](https://www.youtube.com/watch?v=kEdr0ARq48A) |  |

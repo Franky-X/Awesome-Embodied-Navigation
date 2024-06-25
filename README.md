@@ -138,16 +138,16 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 
 ## 3. Advanced Cognition
 
-## Global/Local Space -Representation
+### Global/Local Space -Representation
 
-### Point
+#### Point
 
 | Algorithm | Based Structure | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
 | Point Cloud Library (PCL)  | Point cloud | 2011 | ICRA | [link](https://doi.org/10.1109/ICRA.2011.5980567) |  |
 | PointNet | Point cloud | 2017 | CVPR | [link](https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html) |  |
 
-### Voxel
+#### Voxel
 
 | Algorithm | Based Structure | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
@@ -157,7 +157,7 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 | Vox-Fusion | voxel grid with octree | 2022 | ISMAR | [link](https://doi.org/10.1109/ISMAR55827.2022.00066) |  |
 | Occupancy Networks | occupancy grid | 2019 | CVPR | [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html) |  |
 
-### Neural Weights
+#### Neural Weights
 
 | Algorithm | Based Structure | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |

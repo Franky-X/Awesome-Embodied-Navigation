@@ -136,54 +136,36 @@ The primary characteristic of this paradigm lies in the **joint optimization and
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-## 3. Neuromorphic Cognition
+## 3. Advanced Cognition
 
-### 3.1 Spatial Cognition
+## Global/Local Space -Representation
 
-#### Spatial Representation
+### Point
 
-- Explicit
-    - Voxels
-    - Octomap
-    - VDB Series
-- Implicit
-    - NerF Series
-    - 3D-GS
+| Algorithm | Based Structure | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+| Point Cloud Library (PCL)  | Point cloud | 2011 | ICRA | [link](https://doi.org/10.1109/ICRA.2011.5980567) |  |
+| PointNet | Point cloud | 2017 | CVPR | [link](https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html) |  |
 
-#### Spatial Storage
+### Voxel
 
-- Continuous Euclidean
-    - High-Precision Maps
-- Topological Non-Euclidean
-    - Cognitive Maps
+| Algorithm | Based Structure | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+| Direct Voxel Grid Optimization | voxel grid  | 2022 | CVPR | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Sun_Direct_Voxel_Grid_Optimization_Super-Fast_Convergence_for_Radiance_Fields_Reconstruction_CVPR_2022_paper.html) |  |
+| NICE-SLAM | multireslutional voxel grid | 2022 | CVPR | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_NICE-SLAM_Neural_Implicit_Scalable_Encoding_for_SLAM_CVPR_2022_paper.html) |  |
+| Instant neural graphics primitives with a multiresolution hash encoding  | voxel grid hash encoding  | 2022 | ACM Transactions on Graphics | [link](https://doi.org/10.1145/3528223.3530127) |  |
+| Vox-Fusion | voxel grid with octree | 2022 | ISMAR | [link](https://doi.org/10.1109/ISMAR55827.2022.00066) |  |
+| Occupancy Networks | occupancy grid | 2019 | CVPR | [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html) |  |
 
-### 3.2 Proprioceptive Cognition
+### Neural Weights
 
-#### Proprioceptive Motion Representation
+| Algorithm | Based Structure | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- |
+| NeRF  | MLP | 2022 | ACM Transactions on Graphics | [link](https://dl.acm.org/doi/10.1145/3528223.3530127) |  |
+| 3D-GS  | 3D-GS  | 2023 | ACM Transactions on Graphics | [link](https://doi.org/10.48550/arXiv.2308.04079) |  |
+| NerF-LOAM | Neural-SDF | 2023 | ICCV | [link](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_NeRF-LOAM_Neural_Implicit_Representation_for_Large-Scale_Incremental_LiDAR_Odometry_and_ICCV_2023_paper.pdf) |  |
+| DeepSDF | MLP-SDF/TSDF | 2019 | CVPR | [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html) |  |
 
-- Classic
-- Learning
-
-#### Proprioceptive Motion Semantics
-
-- Classification
-- Natural Language
-
-### 3.3 Task Cognition
-
-#### Multilevel Cognition
-
-- LLM
-
-#### Multimodal Cognition
-
-- Multimodal
-
-### 3.4 Full Cognition Fusion
-
-#### Cognitive Association
-
-#### Cognitive Evolution
 
 ## 4. Motion Execution
 

@@ -247,6 +247,6 @@ Reinforcement Learning | Wheel-leg | 2023 | ICRA | [link](https://www.youtube.co
 
 ## 6. Conclusions
 
-## Acknowledgement
+## 7. Acknowledgement
 
-Thanks Adelatut for inspiration from late night discussion!
+Thanks Adelatut for inspiration during late night discussion!

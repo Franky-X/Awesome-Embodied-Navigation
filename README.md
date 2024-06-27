@@ -249,4 +249,3 @@ Reinforcement Learning | Wheel-leg | 2023 | ICRA | [link](https://www.youtube.co
 
 ## 7. Acknowledgement
 
-% Thanks Adelatut for inspiration during late night discussion!

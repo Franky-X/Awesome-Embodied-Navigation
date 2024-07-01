@@ -25,7 +25,7 @@ To better describe the problem setup of embodied navigation, we use the random p
 ![image](images/Prob.png)
 
 To better understand the modules in the framework, we define several levels of each module. The darker colors mean more advanced levels.
-![image](images/Levels.png)
+![image](images/Level.png)
 ### 1.3 Key Elements of Embodied Navigation
 
 |Embodied Navigation|Traditional Navigation|

@@ -20,6 +20,9 @@ Given an intelligent agent with a certain degree of freedom, which follows speci
 ![image](images/Paradigm.png)
 
 The primary characteristic of this paradigm lies in the **joint optimization and solving of the agent's state, environmental state, and agent motion**. In contrast to prior navigation methods that may have focused solely on optimizing the agent's state, or SLAM problems which crucially consider the agent and environment, embodied navigation **additionally optimizes its own motion execution**.
+
+To better describe the problem setup of embodied navigation, we use random process for modeling.
+![image](images/Prob.png)
 ### 1.3 Key Elements of Embodied Navigation
 
 |Embodied Navigation|Traditional Navigation|

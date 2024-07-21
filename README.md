@@ -109,16 +109,16 @@ To better understand the modules in the framework, we define several levels of e
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
 | Direct LiDAR Odometry | LiDAR | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9681177) |  |
-| MIPO | IMU-Kinematics | 2023 | IROS | https://ieeexplore.ieee.org/document/10342061 | https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry |
-| Robust Legged Robot State Estimation Using Factor Graph Optimization | Cam-IMU-Kinematics | 2019 | RAL | https://ieeexplore.ieee.org/document/8790726 |  |
-| VILENS | Cam-IMU-Lidar-Kinematics | 2023 | TRO | https://ieeexplore.ieee.org/document/9852710 |  |
-| Invariant Smoother for Legged Robot State Estimation | IMU-Kinematics | 2023 | TRO | https://ieeexplore.ieee.org/document/10301546 |  |
-| Cerberus | Cam-IMU-Kinematics | 2023 | ICRA | https://ieeexplore.ieee.org/document/10160486 |  |
-| On State Estimation for Legged Locomotion Over Soft Terrain | IMU-Kinematics | 2021 | IEEE Sensors Letters | https://ieeexplore.ieee.org/document/9316716 |  |
-| Event Camera-based Visual Odometry | Event Cam-RGBD | 2023 | RSJ | https://ieeexplore.ieee.org/document/10342048 |  |
-| Pronto | Cam-IMU-Lidar-Kinematics | 2020 | Frontiers in Robotics and AI | https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00068/full |  |
-| Legged Robot State Estimation With Dynamic Contact Event Information | IMU-Kinematics | 2021 | RAL | https://ieeexplore.ieee.org/document/9468900 |  |
-| Vision-Assisted Localization and Terrain Reconstruction with Quadruped Robots | Depth-IMU-Lidar | 2022 | RSJ | https://ieeexplore.ieee.org/document/9981897?denied= |  |
+| MIPO | IMU-Kinematics | 2023 | IROS | [Link](https://ieeexplore.ieee.org/document/10342061) | https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry |
+| Robust Legged Robot State Estimation Using Factor Graph Optimization | Cam-IMU-Kinematics | 2019 | RAL | [Link](https://ieeexplore.ieee.org/document/8790726) |  |
+| VILENS | Cam-IMU-Lidar-Kinematics | 2023 | TRO | [Link](https://ieeexplore.ieee.org/document/9852710) |  |
+| Invariant Smoother for Legged Robot State Estimation | IMU-Kinematics | 2023 | TRO | [Link](https://ieeexplore.ieee.org/document/10301546) |  |
+| Cerberus | Cam-IMU-Kinematics | 2023 | ICRA | [Link](https://ieeexplore.ieee.org/document/10160486) | [Code](https://github.com/ShuoYangRobotics/Cerberus) |
+| On State Estimation for Legged Locomotion Over Soft Terrain | IMU-Kinematics | 2021 | IEEE Sensors Letters | [Link](https://ieeexplore.ieee.org/document/9316716) |  |
+| Event Camera-based Visual Odometry | Event Cam-RGBD | 2023 | RSJ | [Link](https://ieeexplore.ieee.org/document/10342048) |  |
+| Pronto | Cam-IMU-Lidar-Kinematics | 2020 | Frontiers in Robotics and AI | [Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00068/full) | [Code](https://github.com/ori-drs/pronto) |
+| Legged Robot State Estimation With Dynamic Contact Event Information | IMU-Kinematics | 2021 | RAL | [Link](https://ieeexplore.ieee.org/document/9468900) |  |
+| Vision-Assisted Localization and Terrain Reconstruction with Quadruped Robots | Depth-IMU-Lidar | 2022 | RSJ | [Link](https://ieeexplore.ieee.org/document/9981897) |  |
 
 #### Humanoid/Human
 

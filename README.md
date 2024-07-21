@@ -47,9 +47,11 @@ To better understand the modules in the framework, we define several levels of e
 #### Object Detection
 
 | Algorithm | Modality | Object Type | Date | Publication | Paper Link | Code |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+| DCGNN | LiDAR | Single-state 3D object | 2023 | CAIS| [Link](https://link.springer.com/article/10.1007/s40747-022-00926-z)| --- |
+| ContrastZSD | CAM | Zero-shot Object |2024  | IEEE TPAMI | [Link](https://arxiv.org/pdf/2109.06062) | ---|
+| Gfocal |CAM  | Dense object | 2023  | IEEE TPAMI  | [Link](https://ieeexplore.ieee.org/document/9792391) |  ---|
+|DeepGCNs|LiDAR|---|2023|IEEE TPAMI| [Link](https://arxiv.org/pdf/1910.06849) | [code](https://github.com/lightaime/deep_gcns_torch) |
+|GCNet|---|---|2023|IEEE TPAMI| [Link](https://ieeexplore.ieee.org/document/9307278) | [code](https://github.com/xvjiarui/GCNet) |
 
 #### Place Recognization
 

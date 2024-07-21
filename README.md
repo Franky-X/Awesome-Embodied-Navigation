@@ -109,16 +109,16 @@ To better understand the modules in the framework, we define several levels of e
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
 | Direct LiDAR Odometry | LiDAR | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9681177) |  |
-| MIPO | IMU-Kinematics | 2023 | IROS | [Link](https://ieeexplore.ieee.org/document/10342061) | https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry |
+| MIPO | IMU-Kinematics | 2023 | IROS | [Link](https://ieeexplore.ieee.org/document/10342061) | [Code](https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry) |
 | Robust Legged Robot State Estimation Using Factor Graph Optimization | Cam-IMU-Kinematics | 2019 | RAL | [Link](https://ieeexplore.ieee.org/document/8790726) |  |
 | VILENS | Cam-IMU-Lidar-Kinematics | 2023 | TRO | [Link](https://ieeexplore.ieee.org/document/9852710) |  |
 | Invariant Smoother for Legged Robot State Estimation | IMU-Kinematics | 2023 | TRO | [Link](https://ieeexplore.ieee.org/document/10301546) |  |
 | Cerberus | Cam-IMU-Kinematics | 2023 | ICRA | [Link](https://ieeexplore.ieee.org/document/10160486) | [Code](https://github.com/ShuoYangRobotics/Cerberus) |
 | On State Estimation for Legged Locomotion Over Soft Terrain | IMU-Kinematics | 2021 | IEEE Sensors Letters | [Link](https://ieeexplore.ieee.org/document/9316716) |  |
-| Event Camera-based Visual Odometry | Event Cam-RGBD | 2023 | RSJ | [Link](https://ieeexplore.ieee.org/document/10342048) |  |
+| Event Camera-based Visual Odometry | Event Cam-RGBD | 2023 | IROS | [Link](https://ieeexplore.ieee.org/document/10342048) |  |
 | Pronto | Cam-IMU-Lidar-Kinematics | 2020 | Frontiers in Robotics and AI | [Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00068/full) | [Code](https://github.com/ori-drs/pronto) |
 | Legged Robot State Estimation With Dynamic Contact Event Information | IMU-Kinematics | 2021 | RAL | [Link](https://ieeexplore.ieee.org/document/9468900) |  |
-| Vision-Assisted Localization and Terrain Reconstruction with Quadruped Robots | Depth-IMU-Lidar | 2022 | RSJ | [Link](https://ieeexplore.ieee.org/document/9981897) |  |
+| Vision-Assisted Localization and Terrain Reconstruction with Quadruped Robots | Depth-IMU-Lidar | 2022 | IROS | [Link](https://ieeexplore.ieee.org/document/9981897) |  |
 
 #### Humanoid/Human
 
@@ -151,8 +151,13 @@ To better understand the modules in the framework, we define several levels of e
 
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Joint Optimization of UAV Deployment and Directional Antenna Orientation |  | 2023 | WCNC | [Link](https://ieeexplore.ieee.org/document/10118837) |  |
+| Multi-UAV Collaborative Sensing and Communication: Joint Task Allocation and Power Optimization |  | 2023 | TWC | [Link](https://ieeexplore.ieee.org/document/9968197) |  |
+| Decentralized Multi-UAV Cooperative Exploration Using Dynamic Centroid-Based Area Partition | Depth | 2023 | Drones | [Link](https://www.mdpi.com/2504-446X/7/6/337) |  |
+| Cooperative 3D Exploration and Mapping using Distributed Multi-Robot Teams | Lidar | 2024 | ICARSC | [Link](https://ieeexplore.ieee.org/document/10535925) |  |
+| RACER | Cam-IMU | 2023 | TRO | [Link](https://ieeexplore.ieee.org/document/10038280) | [Code](https://github.com/SYSU-STAR/RACER) |
+| Fast Multi-UAV Decentralized Exploration of Forests | Depth | 2023 | RAL | [Link](https://ieeexplore.ieee.org/document/10184313) | [Code](https://github.com/VIS4ROB-lab/fast_multi_robot_exploration) |
+| Next-Best-View planning for surface reconstruction of large-scale 3D environments with multiple UAVs | Depth | 2020 | IROS | [Link](https://ieeexplore.ieee.org/document/9340897) |  |
 
 #### Ground-Ground
 

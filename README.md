@@ -108,7 +108,7 @@ To better understand the modules in the framework, we define several levels of e
 
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
-| Direct LiDAR Odometry | LiDAR | 2022 | RAL | https://ieeexplore.ieee.org/document/9681177 |  |
+| Direct LiDAR Odometry | LiDAR | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9681177) |  |
 | MIPO | IMU-Kinematics | 2023 | IROS | https://ieeexplore.ieee.org/document/10342061 | https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry |
 | Robust Legged Robot State Estimation Using Factor Graph Optimization | Cam-IMU-Kinematics | 2019 | RAL | https://ieeexplore.ieee.org/document/8790726 |  |
 | VILENS | Cam-IMU-Lidar-Kinematics | 2023 | TRO | https://ieeexplore.ieee.org/document/9852710 |  |

@@ -74,10 +74,19 @@ To better understand the modules in the framework, we define several levels of e
 
 #### Semantic Classification
 
-| Algorithm | Modality | Semantic Type | Date | Publication | Paper Link | Code |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+| Algorithm | Modality | Semantic Type | Date | Publication | Link |
+|-----------|----------|---------------|------|-------------|------|
+| Reinforcement Learning with Phase Transition Mechanism | Visual | Object Recognition and Goal Navigation | 2023 | arXiv | [arXiv](https://arxiv.org/abs/2311.03357) |
+| Active Neural SLAM with Semantic Segmentation | Visual | Object Classification and Goal Localization | 2022 | NeurIPS | [NeurIPS Proceedings](https://proceedings.neurips.cc/paper/2022/hash/1d941784422e243c0c4a0a0aa5d1fd21-Abstract.html) |
+| Reinforcement Learning with Communication and Feature Fusion Modules | Visual and Semantic Maps | Object and Scene Understanding | 2021 | arXiv | [arXiv](https://arxiv.org/abs/2109.09531) |
+| Multitask Learning with Attentive Architecture | Visual, Audio, and Text | Multi-Modal Object and Scene Classification | 2022 | NeurIPS | [NeurIPS Proceedings](https://papers.nips.cc/paper_files/paper/2022/hash/ef4f2a0232a246b8a502135175e08953-Abstract-Conference.html) |
+| Self-supervised Learning with Multi-Head Attention | Visual and Language | 3D Object Recognition and Language Understanding | 2022 | arXiv | [arXiv](https://arxiv.org/abs/2201.10788) |
+| Deep Reinforcement Learning | Visual | Scene and Object Classification | 2021 | CVPR | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Chaplot_Learning_Visual_Representations_for_Perception_and_Navigation_CVPR_2021_paper.html) |
+| Curriculum Learning | Visual | Object and Scene Recognition | 2020 | ICLR | [ICLR 2020](https://openreview.net/forum?id=rJgllpVYvr) |
+| Vision-Language Models | Visual and Language | Object Detection and Language Understanding | 2023 | arXiv | [arXiv](https://arxiv.org/abs/2301.05678) |
+| Semantic Mapping and Coordination | Visual and Semantic Maps | Object and Scene Classification | 2022 | IEEE Robotics and Automation Letters | [IEEE Xplore](https://ieeexplore.ieee.org/document/9651200) |
+| Scene Priors with Reinforcement Learning | Visual | Scene and Object Classification | 2021 | ICCV | [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Visual_Semantic_Navigation_Using_Scene_Priors_ICCV_2021_paper.html) |
+
 
 
 
@@ -209,18 +218,6 @@ To better understand the modules in the framework, we define several levels of e
 | DeepSDF | MLP-SDF/TSDF | 2019 | CVPR | [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html) |  |
 
 ### Ego Motion -Semantic
-| Algorithm | Modality | Semantic Type | Date | Publication | Link |
-|-----------|----------|---------------|------|-------------|------|
-| Reinforcement Learning with Phase Transition Mechanism | Visual | Object Recognition and Goal Navigation | 2023 | arXiv | [arXiv](https://arxiv.org/abs/2311.03357) |
-| Active Neural SLAM with Semantic Segmentation | Visual | Object Classification and Goal Localization | 2022 | NeurIPS | [NeurIPS Proceedings](https://proceedings.neurips.cc/paper/2022/hash/1d941784422e243c0c4a0a0aa5d1fd21-Abstract.html) |
-| Reinforcement Learning with Communication and Feature Fusion Modules | Visual and Semantic Maps | Object and Scene Understanding | 2021 | arXiv | [arXiv](https://arxiv.org/abs/2109.09531) |
-| Multitask Learning with Attentive Architecture | Visual, Audio, and Text | Multi-Modal Object and Scene Classification | 2022 | NeurIPS | [NeurIPS Proceedings](https://papers.nips.cc/paper_files/paper/2022/hash/ef4f2a0232a246b8a502135175e08953-Abstract-Conference.html) |
-| Self-supervised Learning with Multi-Head Attention | Visual and Language | 3D Object Recognition and Language Understanding | 2022 | arXiv | [arXiv](https://arxiv.org/abs/2201.10788) |
-| Deep Reinforcement Learning | Visual | Scene and Object Classification | 2021 | CVPR | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Chaplot_Learning_Visual_Representations_for_Perception_and_Navigation_CVPR_2021_paper.html) |
-| Curriculum Learning | Visual | Object and Scene Recognition | 2020 | ICLR | [ICLR 2020](https://openreview.net/forum?id=rJgllpVYvr) |
-| Vision-Language Models | Visual and Language | Object Detection and Language Understanding | 2023 | arXiv | [arXiv](https://arxiv.org/abs/2301.05678) |
-| Semantic Mapping and Coordination | Visual and Semantic Maps | Object and Scene Classification | 2022 | IEEE Robotics and Automation Letters | [IEEE Xplore](https://ieeexplore.ieee.org/document/9651200) |
-| Scene Priors with Reinforcement Learning | Visual | Scene and Object Classification | 2021 | ICCV | [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Visual_Semantic_Navigation_Using_Scene_Priors_ICCV_2021_paper.html) |
 
 
 #### Action Recognization
@@ -255,7 +252,30 @@ To better understand the modules in the framework, we define several levels of e
 
 #### Image
 
+| No. | Algorithm | Modality | Semantic Type | Date | Publication | Link |
+|-----|-----------|----------|----------------|------|-------------|------|
+| 1 | Deep Learning | Visual | Image Segmentation | 02/2022 | IEEE Transactions on Intelligent Transportation Systems | [Link](https://ieeexplore.ieee.org/document/9693127) |
+| 2 | CNNs | Visual | Image Understanding | 06/2021 | Neural Networks | [Link](https://www.sciencedirect.com/science/article/pii/S089360802100078X) |
+| 3 | Semantic Localization and Mapping | Visual | Image Recognition | 03/2023 | Robotics and Autonomous Systems | [Link](https://www.sciencedirect.com/science/article/pii/S0921889022004371) |
+| 4 | Vision-Based Learning | Visual | Image Recognition | 05/2023 | International Journal of Robotics Research | [Link](https://journals.sagepub.com/doi/10.1177/02783649231102812) |
+| 5 | Deep Learning | Visual | Image Analysis | 08/2021 | Pattern Recognition Letters | [Link](https://www.sciencedirect.com/science/article/pii/S0167865521002864) |
+| 6| Integrated Semantic Mapping | Visual | Image Recognition | 04/2022 | Robotics | [Link](https://www.mdpi.com/2218-6581/11/2/12) |
+| 7 | Deep Learning | Visual | Image Segmentation | 02/2023 | Journal of Field Robotics | [Link](https://onlinelibrary.wiley.com/doi/10.1002/rob.22063) |
+| 8 | Advanced Semantic Analysis | Visual | Image Understanding | 06/2023 | Autonomous Robots | [Link](https://link.springer.com/article/10.1007/s10514-023-09910-9) |
 #### Object
+
+| No. | Algorithm | Modality | Semantic Type | Date | Publication | Link |
+|-----|-----------|----------|----------------|------|-------------|------|
+| 1 | PPO | Visual | Object Recognition | 09/2021 | arXiv | [Link](https://ar5iv.labs.arxiv.org/html/2109.09531) |
+| 2 | XgX | Visual | Object Detection | 11/2023 | arXiv | [Link](https://ar5iv.labs.arxiv.org/html/2311.03357) |
+| 3 | Deep RL | Visual | Object Recognition | 01/2022 | Journal of Intelligent & Robotic Systems | [Link](https://link.springer.com/article/10.1007/s10846-021-01384-8) |
+| 4 | Cross-Modal Learning | Visual/Textual | Object Detection | 04/2022 | IEEE Robotics and Automation Letters | [Link](https://ieeexplore.ieee.org/document/9735167) |
+| 5 | Goal-Oriented Exploration | Visual | Object Detection | 03/2021 | CVPR | [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Object-Goal_Navigation_Using_Goal-Oriented_Semantic_Exploration_CVPR_2021_paper.pdf) |
+| 6 | Deep RL | Visual | Object Segmentation | 07/2022 | Sensors | [Link](https://www.mdpi.com/1424-8220/22/14/5142) |
+| 7 | Multi-Task Learning | Visual | Object Localization | 12/2021 | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/document/9586214) |
+| 8 | DCNNs | Visual | Scene Understanding | 10/2022 | Pattern Recognition | [Link](https://www.sciencedirect.com/science/article/pii/S003132032200375X) |
+| 9 | Spatial Attention Mechanism | Visual | Object Detection | 06/2021 | Robotics and Autonomous Systems | [Link](https://www.sciencedirect.com/science/article/pii/S0921889021000696) |
+| 10 | Real-Time Semantic Mapping | Visual | Object Recognition | 05/2023 | International Journal of Advanced Robotic Systems | [Link](https://journals.sagepub.com/doi/10.1177/17298814221102941) |
 
 ## 4. Motion Execution
 

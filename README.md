@@ -163,8 +163,15 @@ To better understand the modules in the framework, we define several levels of e
 
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Graph‐based subterranean exploration path planning using aerial and legged robots | Cam-Depth-Lidar-Thermal-IMU | 2020 | Journal of Field Robotics | [Link](https://onlinelibrary.wiley.com/doi/10.1002/rob.21993) |  |
+| Stronger Together | Cam-Lidar-GPS | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9830880) | [Code](https://github.com/iandouglas96/asoom_oss) |
+| VIO-UWB-Based Collaborative Localization and Dense Scene Reconstruction within Heterogeneous Multi-Robot Systems | Depth-Lidar | 2022 | ICARM | [Link](https://onlinelibrary.wiley.com/doi/10.1002/rob.21993) |  |
+| Heterogeneous Ground and Air Platforms, Homogeneous Sensing: Team CSIRO Data61's Approach to the DARPA Subterranean Challenge | Cam-Lidar | 2022 | Field Robotics | [Link](https://arxiv.org/abs/2104.09053) |  |
+| Aerial-Ground Collaborative Continuous Risk Mapping for Autonomous Driving of Unmanned Ground Vehicle in Off-Road Environments | Depth-Lidar-IMU | 2023 | TAES | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0360132322005820) | [Code](https://github.com/ininwrc/agccrm) |
+| Cooperative Route Planning for Fuel-constrained UGV-UAV Exploration | Cam-Lidar-GPS | 2022 | ICUS | [Link](https://ieeexplore.ieee.org/document/9987158) |  |
+| Energy-Efficient Ground Traversability Mapping Based on UAV-UGV Collaborative System | Cam-Lidar | 2022 | TGCN | [Link](https://ieeexplore.ieee.org/document/9521583) |  |
+| Aerial-Ground Robots Collaborative 3D Mapping in GNSS-Denied Environments | Cam-Lidar | 2022 | ICRA | [Link](https://ieeexplore.ieee.org/document/9812319) |  |
+| Autonomous Exploration and Mapping System Using Heterogeneous UAVs and UGVs in GPS-Denied Environments | Cam-Depth-Lidar | 2019 | TVT | [Link](https://ieeexplore.ieee.org/document/8598942) |  |
 
 #### Sky-Sky
 
@@ -177,13 +184,15 @@ To better understand the modules in the framework, we define several levels of e
 | RACER | Cam-IMU | 2023 | TRO | [Link](https://ieeexplore.ieee.org/document/10038280) | [Code](https://github.com/SYSU-STAR/RACER) |
 | Fast Multi-UAV Decentralized Exploration of Forests | Depth | 2023 | RAL | [Link](https://ieeexplore.ieee.org/document/10184313) | [Code](https://github.com/VIS4ROB-lab/fast_multi_robot_exploration) |
 | Next-Best-View planning for surface reconstruction of large-scale 3D environments with multiple UAVs | Depth | 2020 | IROS | [Link](https://ieeexplore.ieee.org/document/9340897) |  |
+| An autonomous unmanned aerial vehicle system for fast exploration of large complex indoor environments | Cam-Lidar | 2021 | Journal of Field Robotics | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22021) | [Code](https://github.com/ctu-mrs/mrs_uav_system) |
+| Multi‑MAV Autonomous Full Coverage Search in Cluttered Forest Environments | Cam-Lidar | 2022 | Journal of Intelligent & Robotic Systems | [Link](https://link.springer.com/article/10.1007/s10846-022-01723-z) |  |
 
 #### Ground-Ground
 
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Hybrid Stochastic Exploration Using Grey Wolf Optimizer and Coordinated Multi-Robot Exploration Algorithms |  | 2019 | IEEE Access | [Link](https://ieeexplore.ieee.org/document/8631022) |  |
+| MR-TopoMap: Multi-Robot Exploration Based on Topological Map in Communication Restricted Environment | Cam-Lidar | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9834084) |  |
 
 ## 3. Advanced Cognition
 

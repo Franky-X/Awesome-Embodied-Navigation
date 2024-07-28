@@ -164,11 +164,11 @@ To better understand the modules in the framework, we define several levels of e
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
 | Graph‐based subterranean exploration path planning using aerial and legged robots | Cam-Depth-Lidar-Thermal-IMU | 2020 | Journal of Field Robotics | [Link](https://onlinelibrary.wiley.com/doi/10.1002/rob.21993) |  |
-| Stronger Together | Cam-Lidar-GPS | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9830880) | [Code](https://github.com/iandouglas96/asoom_oss) |
+| Stronger Together | Cam-Lidar-GNSS | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9830880) | [Code](https://github.com/iandouglas96/asoom_oss) |
 | VIO-UWB-Based Collaborative Localization and Dense Scene Reconstruction within Heterogeneous Multi-Robot Systems | Depth-Lidar | 2022 | ICARM | [Link](https://onlinelibrary.wiley.com/doi/10.1002/rob.21993) |  |
 | Heterogeneous Ground and Air Platforms, Homogeneous Sensing: Team CSIRO Data61's Approach to the DARPA Subterranean Challenge | Cam-Lidar | 2022 | Field Robotics | [Link](https://arxiv.org/abs/2104.09053) |  |
 | Aerial-Ground Collaborative Continuous Risk Mapping for Autonomous Driving of Unmanned Ground Vehicle in Off-Road Environments | Depth-Lidar-IMU | 2023 | TAES | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0360132322005820) | [Code](https://github.com/ininwrc/agccrm) |
-| Cooperative Route Planning for Fuel-constrained UGV-UAV Exploration | Cam-Lidar-GPS | 2022 | ICUS | [Link](https://ieeexplore.ieee.org/document/9987158) |  |
+| Cooperative Route Planning for Fuel-constrained UGV-UAV Exploration | Cam-Lidar-GNSS | 2022 | ICUS | [Link](https://ieeexplore.ieee.org/document/9987158) |  |
 | Energy-Efficient Ground Traversability Mapping Based on UAV-UGV Collaborative System | Cam-Lidar | 2022 | TGCN | [Link](https://ieeexplore.ieee.org/document/9521583) |  |
 | Aerial-Ground Robots Collaborative 3D Mapping in GNSS-Denied Environments | Cam-Lidar | 2022 | ICRA | [Link](https://ieeexplore.ieee.org/document/9812319) |  |
 | Autonomous Exploration and Mapping System Using Heterogeneous UAVs and UGVs in GPS-Denied Environments | Cam-Depth-Lidar | 2019 | TVT | [Link](https://ieeexplore.ieee.org/document/8598942) |  |
@@ -192,7 +192,14 @@ To better understand the modules in the framework, we define several levels of e
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
 | Hybrid Stochastic Exploration Using Grey Wolf Optimizer and Coordinated Multi-Robot Exploration Algorithms |  | 2019 | IEEE Access | [Link](https://ieeexplore.ieee.org/document/8631022) |  |
-| MR-TopoMap: Multi-Robot Exploration Based on Topological Map in Communication Restricted Environment | Cam-Lidar | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9834084) |  |
+| MR-TopoMap | Cam-Lidar | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9834084) |  |
+| H2GNN |  | 2022 | RAL | [Link](https://ieeexplore.ieee.org/document/9697333) |  |
+| SMMR-Explore | Lidar-IMU | 2021 | ICRA | [Link](https://ieeexplore.ieee.org/document/9561328) |  |
+| Distributed multi-robot potential-field-based exploration with submap-based mapping and noise-augmented strategy | Lidar | 2024 | Robotics and Autonomous Systems | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0921889024001362) |  |
+| CoPeD-Advancing Multi-Robot Collaborative Perception | Cam-Lidar-GNSS-IMU | 2024 | RAL | [Link](https://ieeexplore.ieee.org/document/10540310) |  |
+| Collaborative Complete Coverage and Path Planning for Multi-Robot Exploration |  | 2021 | Sensors | [Link](https://www.mdpi.com/1424-8220/21/11/3709) |  |
+| Voronoi-Based Multi-Robot Autonomous Exploration in Unknown Environments via Deep Reinforcement Learning | Lidar | 2020 | TVT | [Link](https://ieeexplore.ieee.org/document/9244647) |  |
+| Multi-vehicle cooperative localization and mapping with the assistance of dynamic beacons in GNSS-denied environment | IMU-Lidar | 2024 | ISAS | [Link](https://ieeexplore.ieee.org/document/10552478) |  |
 
 ## 3. Advanced Cognition
 

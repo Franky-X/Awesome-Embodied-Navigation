@@ -234,7 +234,13 @@ To better understand the modules in the framework, we define several levels of e
 | --- | --- | --- | --- | --- | --- |
 | MotionGPT | IMU | 2023 | NIPS | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3fbf0c1ea0716c03dea93bb6be78dd6f-Abstract-Conference.html) |  |
 | IMUGPT 2.0 | IMU | 2024 | ArXiv | [link](https://arxiv.org/abs/2402.01049) |  |
-
+|APSR framework|depth/3D joint information/RGB frame/IR sequence|2020|IEEE TPAMI|[link](https://ieeexplore.ieee.org/document/8713892) | |
+|MS block+Res2Net|2D RGB images|2023|IEEE TCSVT|[link](https://ieeexplore.ieee.org/document/9950528)|   |
+|EM+Dijkstra|IMU|2020|IEEE T HUM-MACH SYST|[link](https://ieeexplore.ieee.org/document/8954775)|  |
+|MotionLLM | |2024|arxiv|[link](https://www.arxiv.org/pdf/2405.17013v2)|[code](https://github.com/szqwu/MotionLLM)|
+|Seq2Seq+SeqGAN+RL+MC|CAM+Master Motor Map framework|2021|ICRA|[link](https://ieeexplore.ieee.org/document/9561519)|   |
+|KIT (a datasheet)|CAM+Master Motor Map framework|2017|Big Data|[link](https://arxiv.org/pdf/1607.03827)|[datasheet](https://motion-annotation.humanoids.kit.edu/dataset/)|
+|Motion Patches+ViT framework|3D joint position+RGB 2D images|2024|arxiv|[link](https://arxiv.org/pdf/2405.04771)|  |
 ### Goal Understanding -Type
 
 #### Point

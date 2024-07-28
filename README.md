@@ -51,8 +51,14 @@ To better understand the modules in the framework, we define several levels of e
 | DCGNN | LiDAR | Single-state 3D object | 2023 | CAIS | [Link](https://link.springer.com/article/10.1007/s40747-022-00926-z) | --- |
 | ContrastZSD | CAM | Zero-shot Object | 2024 | IEEE TPAMI | [Link](https://arxiv.org/pdf/2109.06062) | --- |
 | Gfocal | CAM  | Dense object | 2023  | IEEE TPAMI  | [Link](https://ieeexplore.ieee.org/document/9792391) | --- |
-| DeepGCNs | LiDAR |---| 2023 | IEEE TPAMI | [Link](https://arxiv.org/pdf/1910.06849) | [code](https://github.com/lightaime/deep_gcns_torch) |
+| DeepGCNs | Point cloud |---| 2023 | IEEE TPAMI | [Link](https://arxiv.org/pdf/1910.06849) | [code](https://github.com/lightaime/deep_gcns_torch) |
 | GCNet |---|---| 2023 | IEEE TPAMI | [Link](https://ieeexplore.ieee.org/document/9307278) | [code](https://github.com/xvjiarui/GCNet) |
+| CNN hybrid module(CSWin+hybrid patch embedding module+slicing-based inference)  | RGB image            | objects in UAV images                | 2023 | J-STARS  | [link](https://ieeexplore.ieee.org/document/10006385)                                                              |                                          |
+| iS-YOLOv5     | RGB image            | small objects in autonomous driving  | 2023 | Pattern Recognition Letters| [link](https://www.sciencedirect.com/science/article/abs/pii/S0167865523000727?via%3Dihub)                         |                                          |
+| ASIF-Net                             | RGB-D                | Salient Object                       | 2021 | IEEE T Cybernetics        | [link](https://ieeexplore.ieee.org/document/8998588)                                                               | [code](https://github.com/Li-Chongyi/ASIF-Net) |
+| AdaDet(based on Early-Exit Neural Networks)                                               | RGB image            | ...                                  | 2024 | IEEE T COGN DEV SYST      | [link](https://ieeexplore.ieee.org/document/10121781)                                         |                           |
+| memory network+causal intervention+Mask RCNN                                              | RGB/grayscale image  | object in different weather condition| 2024 | IEEE TPAMI                | [link](https://ieeexplore.ieee.org/document/9756301)                                                               |                                          |
+| Res2Net                                                                                   | RGB image                  | object on 2D frames, especially Salient Object | 2021 | IEEE TPAMI                | [link](https://arxiv.org/pdf/1904.01169)           | [code](https://mmcheng.net/res2net/)     |
 
 
 #### Place Recognization

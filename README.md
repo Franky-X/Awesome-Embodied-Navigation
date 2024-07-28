@@ -180,6 +180,14 @@ To better understand the modules in the framework, we define several levels of e
 | --- | --- | --- | --- | --- | --- |
 | Point Cloud Library (PCL)  | Point cloud | 2011 | ICRA | [link](https://doi.org/10.1109/ICRA.2011.5980567) |  |
 | PointNet | Point cloud | 2017 | CVPR | [link](https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html) |  |
+| PCT                                                  | Point cloud                                  | 2021 | computational visual media    | [link](https://arxiv.org/pdf/2012.09688)                   |                                             |
+| TEASER|Point cloud                                 | 2021 | IEEE T ROBOT                  | [link](https://ieeexplore.ieee.org/document/9286491)       |                                             |
+| SC-CNN                                               | point cloud+hierarchical+anisotropic spatial geometry | 2022 | TRGS                          | [link](https://ieeexplore.ieee.org/document/9762976)       | [code](https://github.com/changshuowang/SC-CNN) |
+| PMP-Net++                                            | Point cloud                                  | 2023 | IEEE TPAMI                    | [link](https://arxiv.org/pdf/2202.09507)                   | [code](https://github.com/diviswen/PMP-Net) |
+| STORM                                                | Point cloud                                  | 2023 | IEEE TPAMI                    | [link](https://ieeexplore.ieee.org/document/9705149)       |                                             |
+| Registration by Graph Matching                       | deep graph+point cloud                       | 2023 | IEEE TPAMI                    | [link](https://arxiv.org/pdf/2211.04696)                   | [code](https://github.com/fukexue/RGM)      |
+| CrossNet                                             | RGB+grayscale+point cloud                    | 2024 | TMM                           | [link](https://ieeexplore.ieee.org/document/10147273)      |                                             |
+| PointConT                                            | point content-based Transformer              | 2024 | JAS                           | [link](https://arxiv.org/pdf/2303.04599)                   | [code](https://github.com/yahuiliu99/PointConT) |
 
 #### Voxel
 

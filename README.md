@@ -121,7 +121,13 @@ To better understand the modules in the framework, we define several levels of e
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
 | Fast-LIO | Lidar-IMU | 2021 | RAL | https://ieeexplore.ieee.org/abstract/document/9372856 | https://github.com/hku-mars/FAST_LIO |
-|  |  |  |  |  |  |
+|Swarm-LIO|LiDar-IMU|2023|ICRA|[link](https://ieeexplore.ieee.org/document/10161355)|[code](https://github.com/hku-mars/Swarm-LIO2)|
+|Vision-UWB fusion framework|UGV-assisted|2023|IEEE ICIEA|[link](https://ieeexplore.ieee.org/document/10241577)| |
+|EKF+ IGG robust estimation|GNSS+INS+IMU+Force sensor|2024|MEAS SCI TECHNOL|[link](https://iopscience.iop.org/article/10.1088/1361-6501/acfe2a)|[code](https://github.com/ZJU-FAST-Lab/VID-Dataset)|
+|Omni-Swarm(multidrone map-based localization+visual drone tracking)|VIO+UWB sensors+stereo wide-field-of-view cameras|2022|IEEE T ROBOT|[link](https://arxiv.org/pdf/2103.04131)|[code](https://github.com/HKUST-Aerial-Robotics/Omni-swarm)|
+|EKF|ToF+?|2024|AMC|[link](https://ieeexplore.ieee.org/document/10505698)| |
+|HDVIO|VIO+IMU+dynamics module|2023|RSS|[link](https://arxiv.org/pdf/2306.11429)| |
+|Acoustic Inertial Measurement(AIM)|Acoustics(microphone array)|2022|ACM(SenSys)|[link](https://dl.acm.org/doi/pdf/10.1145/3560905.3568499)| |
 
 #### Legged Robot
 

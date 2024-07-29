@@ -120,7 +120,7 @@ To better understand the modules in the framework, we define several levels of e
 
 | Algorithm | Modality | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
-| Fast-LIO | Lidar-IMU | 2021 | RAL | https://ieeexplore.ieee.org/abstract/document/9372856 | https://github.com/hku-mars/FAST_LIO |
+| Fast-LIO | Lidar-IMU | 2021 | RAL | [link](https://ieeexplore.ieee.org/abstract/document/9372856) | [code](https://github.com/hku-mars/FAST_LIO) |
 |Swarm-LIO|LiDar-IMU|2023|ICRA|[link](https://ieeexplore.ieee.org/document/10161355)|[code](https://github.com/hku-mars/Swarm-LIO2)|
 |Vision-UWB fusion framework|UGV-assisted|2023|IEEE ICIEA|[link](https://ieeexplore.ieee.org/document/10241577)| |
 |EKF+ IGG robust estimation|GNSS+INS+IMU+Force sensor|2024|MEAS SCI TECHNOL|[link](https://iopscience.iop.org/article/10.1088/1361-6501/acfe2a)|[code](https://github.com/ZJU-FAST-Lab/VID-Dataset)|

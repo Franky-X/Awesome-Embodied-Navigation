@@ -311,7 +311,25 @@ To better understand the modules in the framework, we define several levels of e
 
 #### Meta
 
+| Algorithm | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- |
+| Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection | 2018 | IJRR | [Link](https://journals.sagepub.com/doi/full/10.1177/0278364917710318) |  |
+| Learning ambidextrous robot grasping policies | 2019 | Science Robotics | [Link](https://www.science.org/doi/10.1126/scirobotics.aau4984) |  |
+| Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning | 2018 | IROS | [Link](https://ieeexplore.ieee.org/document/8593986) |  |
+| GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping | 2020 | CVPR | [Link](https://ieeexplore.ieee.org/document/9156992) | [Code](www.graspnet.net) |
+| AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains | 2023 | TRO | [Link](https://ieeexplore.ieee.org/document/10167687) |  |
+| Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation | 2020 | CVPR | [Link](https://arxiv.org/abs/1911.07450) |  |
+
 #### Combination
+
+| Algorithm | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- |
+| Learning compositional models of robot skills for task and motion planning | 2021 | ISRR | [Link](https://journals.sagepub.com/doi/10.1177/02783649211004615) | [Code](https://github.com/caelan/LTAMP) |
+| Learning Manipulation Skills via Hierarchical Spatial Attention | 2022 | TRO | [Link](https://ieeexplore.ieee.org/document/9023569) |  |
+| Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models | 2024 | ICRA | [Link](https://arxiv.org/abs/2406.18746) | [Code](https://gtziafas.github.io/LRLL_project/) |
+| SAGCI-System | 2022 | ICRA | [Link](https://ieeexplore.ieee.org/document/9811859) |  |
+| Pedipulate: Enabling Manipulation Skills using a Quadruped Robot’s Leg | 2024 | ICRA | [Link](https://arxiv.org/abs/2402.10837) |  |
+| PhyPlan | 2024 | arxiv | [Link](https://arxiv.org/abs/2406.00001) | [Code](https://github.com/phyplan/PhyPlan) |
 
 ### Planning
 
@@ -343,6 +361,10 @@ Reinforcement Learning | Wheel-leg | 2023 | ICRA | [link](https://www.youtube.co
 ## 5. Platforms and Data
 
 ### Simulation
+
+| Algorithm | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- |
+| RFUniverse: A Multiphysics Simulation Platform for Embodied AI | 2023 | arxiv | [Link](https://arxiv.org/abs/2202.00199) | [Code](https://github.com/robotflow-initiative/rfuniverse) |
 
 ### Reality
 

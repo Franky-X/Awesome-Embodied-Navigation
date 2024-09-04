@@ -319,6 +319,9 @@ To better understand the modules in the framework, we define several levels of e
 | GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping | 2020 | CVPR | [Link](https://ieeexplore.ieee.org/document/9156992) | [Code](www.graspnet.net) |
 | AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains | 2023 | TRO | [Link](https://ieeexplore.ieee.org/document/10167687) |  |
 | Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation | 2020 | CVPR | [Link](https://arxiv.org/abs/1911.07450) |  |
+| UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers | 2024 | arXiv | [Link](https://arxiv.org/abs/2407.10353) | [Code](https://github.com/real-stanford/umi-on-legs) |
+| DrEureka: Language Model Guided Sim-To-Real Transfer | 2024 | RSS | [Link](https://arxiv.org/abs/2406.01967) | [Code](https://github.com/eureka-research/DrEureka) |
+| Humanoid Locomotion as Next Token Prediction | 2024 | arXiv | [Link](https://arxiv.org/abs/2402.19469) |  |
 
 #### Combination
 
@@ -330,33 +333,48 @@ To better understand the modules in the framework, we define several levels of e
 | SAGCI-System | 2022 | ICRA | [Link](https://ieeexplore.ieee.org/document/9811859) |  |
 | Pedipulate: Enabling Manipulation Skills using a Quadruped Robot’s Leg | 2024 | ICRA | [Link](https://arxiv.org/abs/2402.10837) |  |
 | PhyPlan | 2024 | arxiv | [Link](https://arxiv.org/abs/2406.00001) | [Code](https://github.com/phyplan/PhyPlan) |
+| Practice Makes Perfect: Planning to Learn Skill Parameter Policies | 2024 | RSS | [Link](https://arxiv.org/abs/2402.15025) | [Code](https://github.com/bdaiinstitute/predicators/releases/tag/planning-to-practice-ees) |
+| Extreme Parkour with Legged Robots | 2024 | ICRA | [Link](https://arxiv.org/abs/2309.14341) | [Code](https://github.com/chengxuxin/extreme-parkour) |
+| WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts | 2024 | arXiv | [Link](https://arxiv.org/abs/2406.06005) |  |
+| HiLMa-Res: A General Hierarchical Framework via Residual RL for Combining Quadrupedal Locomotion and Manipulation | 2024 | IROS | [Link](https://www.arxiv.org/abs/2407.06584) |  |
+| Robust and Versatile Bipedal Jumping Control through Multi-Task Reinforcement Learning | 2023 | RSS | [Link](https://arxiv.org/abs/2302.09450) |  |
+| Real-World Humanoid Locomotion with Reinforcement Learning | 2024 | Science Robotics | [Link](https://arxiv.org/abs/2303.03381) |  |
 
 ### Planning
 
 | Algorithm | Modality | DoF | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- | --- |
-| iPlanner | Depth | 2-D | 2023 | RSS | [link](https://www.roboticsproceedings.org/rss19/p064.html) |  |
-| ViPlanner | RGB-D | 2-D | 2024 | ICRA | [link](https://leggedrobotics.github.io/viplanner.github.io/) |  |
-| DTC: Deep Tracking Control | Depth | 12-D | 2024 | Science Robotics | [link](https://www.science.org/doi/10.1126/scirobotics.adh5401) |  |
-| Neural RRT* | RGB | 2-D | 2020 | IEEE Transactions on Automation Science and Engineering | [link](https://ieeexplore.ieee.org/abstract/document/9037111) |  |
-| Socially aware motion planning with deep reinforcement learning | Stereo RGB | 2-D | 2017 | IROS | [link](https://ieeexplore.ieee.org/abstract/document/8202312) |  |
-| Efficient Autonomous Exploration Planning of Large-Scale 3-D Environments | RGB | 3-D | 2019 | RAL | [link](https://ieeexplore.ieee.org/abstract/document/8633925) |  |
+| iPlanner | Depth | 2-D | 2023 | RSS | [Link](https://www.roboticsproceedings.org/rss19/p064.html) |  |
+| ViPlanner | RGB-D | 2-D | 2024 | ICRA | [Link](https://leggedrobotics.github.io/viplanner.github.io/) |  |
+| DTC: Deep Tracking Control | Depth | 1/2-D | 2024 | Science Robotics | [Link](https://www.science.org/doi/10.1126/scirobotics.adh5401) |  |
+| Neural RRT* | RGB | 2-D | 2020 | IEEE Transactions on Automation Science and Engineering | [Link](https://ieeexplore.ieee.org/abstract/document/9037111) |  |
+| Socially aware motion planning with deep reinforcement learning | Stereo RGB | 2-D | 2017 | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/8202312) |  |
+| Efficient Autonomous Exploration Planning of Large-Scale 3-D Environments | RGB | 3-D | 2019 | RAL | [Link](https://ieeexplore.ieee.org/abstract/document/8633925) |  |
+| ArtPlanner: Robust Legged Robot Navigation in the Field | RGB-D | 2.5-D | 2021 | Journal of Field Robotics | [Link](https://arxiv.org/abs/2303.01420) | [Code](https://github.com/leggedrobotics/art_planner) |
+| Perceptive Whole Body Planning for Multi-legged Robots in Confined Spaces | RGB-D | 3-D | 2021 | Journal of Field Robotics | [Link](https://www.research-collection.ethz.ch/handle/20.500.11850/419575) |  |
+| Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation | RGB-D | 3-D | 2023 | Science Robotics | [Link](https://www.science.org/doi/10.1126/scirobotics.adg5014) |  |
+| Learning to walk in confined spaces using 3D representation | RGB-D/LiDAR | 3-D | 2024 | ICRA | [Link](https://arxiv.org/abs/2403.00187) | [Code](https://github.com/leggedrobotics/terrain-generator) |
+| VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation | RGB-D | 2-D | 2024 | ICRA | [Link](https://arxiv.org/abs/2312.03275) | [Code](https://github.com/bdaiinstitute/vlfm) |
+| Autonomous Navigation of Underactuated Bipedal Robots in Height-Constrained Environments. | RGB-D | 3-D | 2023 | IJRR | [Link](https://arxiv.org/abs/2109.05714) |  |
 |  |  |  |  |  |  |  |
 
 ### Morphological Collabration -Morphologic
 
 | Algorithm | Morphologic | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- |
-| Learning Robust Autonomous Navigation and Locomotion for Wheeled-legged Robots | Wheel-leg | 2024 | Science Robotics | [link](https://www.science.org/stoken/author-tokens/ST-1825/full) |  |
-| SytaB | Ground-Air | 2022 | RAL | [link](https://ieeexplore.ieee.org/abstract/document/9832723) |  |
-| Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces | ground-air-water | 2022 | Science Robotics | [link](https://www.science.org/doi/full/10.1126/scirobotics.abm6695) |  |
+| Learning Robust Autonomous Navigation and Locomotion for Wheeled-legged Robots | Wheel-leg | 2024 | Science Robotics | [Link](https://www.science.org/stoken/author-tokens/ST-1825/full) |  |
+| SytaB | Ground-Air | 2022 | RAL | [Link](https://ieeexplore.ieee.org/abstract/document/9832723) |  |
+| Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces | ground-air-water | 2022 | Science Robotics | [Link](https://www.science.org/doi/full/10.1126/scirobotics.abm6695) |  |
 | Advanced Skills through Multiple Adversarial Motion Priors in
-Reinforcement Learning | Wheel-leg | 2023 | ICRA | [link](https://www.youtube.com/watch?v=kEdr0ARq48A) |  |
-| Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks | Wheel-leg | 2023 | PMLR | [link](https://proceedings.mlr.press/v229/schwarke23a.html) |  |
-| Offline motion libraries and online MPC for advanced mobility skills | Wheel-leg | 2022 | IJRR | [link](https://journals.sagepub.com/doi/full/10.1177/02783649221102473) |  |
-| Whole-body mpc and online gait sequence generation for wheeled-legged robots | Wheel-leg | 2021 | IROS | [link](https://ieeexplore.ieee.org/abstract/document/9636371) |  |
+Reinforcement Learning | Wheel-leg | 2023 | ICRA | [Link](https://www.youtube.com/watch?v=kEdr0ARq48A) |  |
+| Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks | Wheel-leg | 2023 | PMLR | [Link](https://proceedings.mlr.press/v229/schwarke23a.html) |  |
+| Offline motion libraries and online MPC for advanced mobility skills | Wheel-leg | 2022 | IJRR | [Link](https://journals.sagepub.com/doi/full/10.1177/02783649221102473) |  |
+| Whole-body mpc and online gait sequence generation for wheeled-legged robots | Wheel-leg | 2021 | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/9636371) |  |
 | Skywalker | Ground-Air | 2023 | RAL |  |  |
-| Autonomous and Adaptive Navigation for Terrestrial-Aerial Bimodal Vehicles | Ground-Air | 2022 | RAL | [link](https://ieeexplore.ieee.org/abstract/document/9691888) |  |
+| Autonomous and Adaptive Navigation for Terrestrial-Aerial Bimodal Vehicles | Ground-Air | 2022 | RAL | [Link](https://ieeexplore.ieee.org/abstract/document/9691888) |  |
+| ManyQuadrupeds: Learning a Single Locomotion Policy for Diverse Quadruped Robots | Quadrupedal | 2024 | ICRA | [Link](https://arxiv.org/abs/2310.10486) |  |
+| Body Transformer: Leveraging Robot Embodiment for Policy Learning | Legged | 2024 | arXiv | [Link](https://arxiv.org/abs/2408.06316) |  |
+| Learning Bipedal Walking on a Quadruped Robot via Adversarial Motion Priors | Legged | 2024 | arXiv | [Link](https://arxiv.org/abs/2407.02282) |  |
 
 ## 5. Platforms and Data
 

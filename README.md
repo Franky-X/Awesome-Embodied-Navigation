@@ -71,30 +71,31 @@ Recently, an increasing number of works are proposed to solve the problems withi
 | Dynamics | Dynamics | Wheel Vehicles | --- | 2010 | Ground Vehicle Dynamics | [Link](https://link.springer.com/book/10.1007/978-3-540-68553-1) | --- |
 | Dynamics | Dynamics | UAV/AUVs | Modelling, simulation and implementation of a quadrotor UAV | 2013 | ICIIS | [Link](https://ieeexplore.ieee.org/document/6731982) | --- |
 | Dynamics | Dynamics | UAV/AUVs | AUV Trajectory Tracking Models and Control Strategies | 2021 | JMSE | [Link](https://www.mdpi.com/2077-1312/9/9/1020) | --- |
-| Dynamics | Dynamics | Legged Robots | 56 | --- | --- | --- | --- |
-| Dynamics | Dynamics | Wheel-Legged | --- | --- | --- | --- | --- |
-| Dynamics | Mult-node | Pedestrian | --- | --- | --- | --- | --- |
-| Dynamics | Mult-node | Pedestrian | --- | --- | --- | --- | --- |
-| Dynamics | Mult-node | Pedestrian | --- | --- | --- | --- | --- |
-| Dynamics | Mult-node | Ground Vehicles | --- | --- | --- | --- | --- |
-| Dynamics | Mult-node | Legged Robots | --- | --- | --- | --- | --- |
-| Motion Cognition | Stationary Detection | Classic Model | --- | --- | --- | --- | --- |
-| Motion Cognition | Stationary Detection | Classic Model | --- | --- | --- | --- | --- |
-| Motion Cognition | Stationary Detection | Deep Learning | --- | --- | --- | --- | --- |
-| Motion Cognition | Activity Recognition | IMUs Only | --- | --- | --- | --- | --- |
-| Motion Cognition | Activity Recognition | IMUs Only | --- | --- | --- | --- | --- |
-| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
-| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
-| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
-| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
-| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
-| End-to-end | Neural Networks | IMU Denoising | --- | --- | --- | --- | --- |
-| End-to-end | Neural Networks | IMU Denoising | --- | --- | --- | --- | --- |
-| End-to-end | Neural Networks | IMU Denoising | --- | --- | --- | --- | --- |
-| End-to-end | Neural Networks | IMU Denoising | --- | --- | --- | --- | --- |
-| End-to-end | Neural Networks | Direct End-to-end | --- | --- | --- | --- | --- |
-| End-to-end | Neural Networks | Direct End-to-end | --- | --- | --- | --- | --- |
-| End-to-end | Neural Networks | Direct End-to-end | --- | --- | --- | --- | --- |
+| Dynamics | Dynamics | Legged Robots | Legged Robots | 208 | Springer Handbook of Robotics | [Link](https://link.springer.com/referenceworkentry/10.1007/978-3-540-30301-5_17) | --- |
+| Dynamics | Dynamics | Wheel-Legged | Whole-Body MPC and Online Gait Sequence Generation for Wheeled-Legged Robots | 2021 | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/9636371) | --- |
+| Dynamics | Mult-node | Pedestrian | Estimating Lower Limb Kinematics Using a Reduced Wearable Sensor Count | 2021 | TBME | [Link](https://ieeexplore.ieee.org/document/9205648) | --- |
+| Dynamics | Mult-node | Pedestrian | Estimating Lower Limb Kinematics using Distance Measurements with a Reduced Wearable Inertial Sensor Count | 2020 | EMBC | [Link](https://ieeexplore.ieee.org/document/9175684) | --- |
+| Dynamics | Mult-node | Pedestrian | Sensor network oriented human motion capture via
+wearable intelligent system | 2021 | IJIS | [Link](https://onlinelibrary.wiley.com/doi/10.1002/int.22689?msockid=21f27229bd326658052c6731bc716797) | --- |
+| Dynamics | Mult-node | Ground Vehicles | Multi-aided Inertial Navigation for Ground Vehicles in Outdoor Uneven Environments | 2005 | ICRA | [Link](https://ieeexplore.ieee.org/document/1570846) | --- |
+| Dynamics | Mult-node | Legged Robots | MIPO | 2023 | IROS | [Link](https://ieeexplore.ieee.org/document/10342061) | [Link](https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry) |
+| Motion Cognition | Stationary Detection | Classic Model | A Novel Position and Orientation System for Pedestrian Indoor Mobile Mapping System | 2021 | IEEE Sensors Journal | [Link](https://ieeexplore.ieee.org/document/9169888） | --- |
+| Motion Cognition | Stationary Detection | Classic Model | A Novel Minimum Distance Constraint Method Enhanced Dual-Foot-Mounted Inertial Navigation System for Pedestrian Positioning | 2023 | IoT-J | [Link](https://ieeexplore.ieee.org/document/10110972) | --- |
+| Motion Cognition | Stationary Detection | Deep Learning | AI-IMU Dead-Reckoning | 2020 | TIV | [Link](https://ieeexplore.ieee.org/document/9035481) | [Link](https://github.com/mbrossar/ai-imu-dr) |
+| Motion Cognition | Activity Recognition | IMUs Only | MARS | 2021 | IoT-J | [Link](https://ieeexplore.ieee.org/document/9343342) | --- |
+| Motion Cognition | Activity Recognition | IMUs Only | Multi-level Contrast Network for Wearables-based Joint Activity Segmentation and Recognition | 2022 | Global Communications | [Link](https://www.semanticscholar.org/paper/Multi-level-Contrast-Network-for-Wearables-based-Xia-Chu/347be659764ae7444330c541508aff1f9e03d2c9) | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | Egocentric Action Recognition by Automatic Relation Modeling | 2023 | TPAMI | [Link](https://ieeexplore.ieee.org/document/9706375) | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | Egocentric Human Activities Recognition With Multimodal Interaction Sensing | 2024 | IEEE Sensors Journal | [Link](https://ieeexplore.ieee.org/document/10387162) | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | EgoHumans | 2023 | ICCV | [Link](https://ieeexplore.ieee.org/document/10377933) | [Link](https://github.com/rawalkhirodkar/egohumans） |
+| Motion Cognition | Activity Recognition | Multi Modalities | E2(GO)MOTION | 2022 | CVPR | [Link](https://ieeexplore.ieee.org/document/9879783) | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | Towards Continual Egocentric Activity Recognition | 2023 | TMM | [Link](https://ieeexplore.ieee.org/document/10184468) | --- |
+| End-to-end | Neural Networks | IMU Denoising | Denoising IMU Gyroscopes With Deep Learning for Open-Loop Attitude Estimation | 2020 | RA-L | [Link](https://ieeexplore.ieee.org/document/9119813) | --- |
+| End-to-end | Neural Networks | IMU Denoising | Deep IMU Bias Inference for Robust Visual-Inertial Odometry With Factor Graphs | 2022 | RA-L | [Link](https://ieeexplore.ieee.org/document/9954167) | [Link](https://github.com/ori-drs/allan_variance_ros) |
+| End-to-end | Neural Networks | IMU Denoising | DUET | 2023 | TIM | [Link](https://ieeexplore.ieee.org/document/10225410) | [Link](https://github.com/kk9six/duet) |
+| End-to-end | Neural Networks | IMU Denoising | A MEMS IMU Gyroscope Calibration Method Based on Deep Learning | 2022 | TIM | [Link](https://ieeexplore.ieee.org/document/9739788) | --- |
+| End-to-end | Neural Networks | Direct End-to-end | A Learning-Based Multi-Node Fusion Positioning Method Using Wearable Inertial Sensors | 2024 | ICASSP | [Link](https://ieeexplore.ieee.org/document/10447298) | --- |
+| End-to-end | Neural Networks | Direct End-to-end | IMUPoser | 2023 | CHI | [Link](https://dl.acm.org/doi/10.1145/3544548.3581392) | [Link](https://github.com/FIGLAB/IMUPoser) |
+| End-to-end | Neural Networks | Direct End-to-end | Robust Inertial Motion Tracking through Deep Sensor Fusion across Smart Earbuds and Smartphone | 2021 | IMWUT | [Link](https://dl.acm.org/doi/10.1145/3463517) | --- |
 
 ### Observation (O)
 

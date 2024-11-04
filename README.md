@@ -42,7 +42,24 @@ Recently, an increasing number of works are proposed to solve the problems withi
 | State Space | Body | Implicit | Towards Versatile Embodied Navigation | 2022 | TAES | [Link](https://ieeexplore.ieee.org/document/9640520) | [Link](https://github.com/hanqingwangai/VXN) |
 | State Space | Body | Implicit | Scene Memory Transformer for Embodied Agents in Long Time Horizon Tasks | 2019 | CVPR | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Fang_Scene_Memory_Transformer_for_Embodied_Agents_in_Long-Horizon_Tasks_CVPR_2019_paper.html) | --- |
 | State Space | Body | Implicit | Zero Experience Required | 2022 | CVPR | [Link](https://ieeexplore.ieee.org/abstract/document/9878587) | [Link](https://github.com/ziadalh/zero_experience_required) |
-| State Space | Body | Neuromophic | --- | 2022 | CVPR | [Link](https://ieeexplore.ieee.org/abstract/document/9878587) | [Link](https://github.com/ziadalh/zero_experience_required) |
+| State Space | Body | Neuromophic | - | - | - | - | - |
+| State Space | Environment | Point Cloud | 3D is here | 2011 | ICRA | [Links](https://ieeexplore.ieee.org/document/5980567) | [Link](https://github.com/PointCloudLibrary/pcl) |
+| State Space | Environment | Voxel | Occupancy Networks | 2019 | CVPR | [Links](https://ieeexplore.ieee.org/document/8953655) | [Link](https://github.com/autonomousvision/occupancy_networks) |
+| State Space | Environment | Implicit | NeRF-LOAM | 2023 | ICCV | [Links](https://ieeexplore.ieee.org/document/10377635) | [Link](https://github.com/JunyuanDeng/NeRF-LOAM) |
+| State Space | Environment | Neuromophic | - | - | - | - | - |
+| Action Space | Low-level Control | Ground Wheel Vehicles | Are we ready for autonomous driving | 2012 | CVPR | [Link](https://ieeexplore.ieee.org/document/6248074) | --- |
+| Action Space | Low-level Control | Ground Wheel Vehicles | CARLA | 2017 | CARLA | [Link](https://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf) | [Link](https://github.com/carla-simulator/carla) |
+| Action Space | Low-level Control | UAVs/AUVs | Unmanned Aerial Vehicles (UAVs) | 2019 | IEEE Access | [Link](https://ieeexplore.ieee.org/document/8682048) | - |
+| Action Space | Low-level Control | UAVs/AUVs | AUV Navigation and Localization | 2014 | JOE | [Link](https://ieeexplore.ieee.org/document/6678293) | - |
+| Action Space | Low-level Control | Legged Robots | ANYmal | 2016 | IROS | [Link](https://ieeexplore.ieee.org/document/7758092) | [Link](https://github.com/ANYbotics) |
+| Action Space | Low-level Control | Legged Robots | MIT Cheetah 3 | 2018 | IROS | [Link](https://ieeexplore.ieee.org/document/8593885) | --- |
+| Action Space | Low-level Control | Legged Robots | Learning to walk in confined spaces using 3D representation | 2024 | ICRA | [Link](https://arxiv.org/abs/2403.00187) | --- |
+| Action Space | Low-level Control | Legged Robots | Learning agile and dynamic motor skills for legged robots | 2019 | Science Robotics | [Link](https://www.science.org/doi/10.1126/scirobotics.aau5872) | --- |
+| Action Space | Low-level Control | Legged Robots | Whole-body Humanoid Robot Locomotion with Human Reference | 2024 | arXiv | [Link](https://arxiv.org/abs/2402.18294) | --- |
+| Action Space | Low-level Control | Wheel-Legged Robots | Dynamic Hybrid Locomotion and Jumping for Wheeled-Legged Quadrupeds | 2023 | IROS | [Link](https://ieeexplore.ieee.org/document/10341824) | --- |
+| Action Space | Low-level Control | Wheel-Legged Robots | Learning robust autonomous navigation and locomotion for wheeled-legged robots | 2024 | Science Robotics | [Link](https://www.science.org/doi/10.1126/scirobotics.adi9641) | --- |
+| Action Space | High-level Command Control | Legged Robots | QUAR-VLA | 2024 | arXiv | [Link](https://arxiv.org/abs/2312.14457) | --- |
+| Action Space | High-level Command Control | Wheel-Legged Robots | Learning robust autonomous navigation and locomotion for wheeled-legged robots | 2024 | Science Robotics | [Link](https://www.science.org/doi/10.1126/scirobotics.adi9641) | --- |
 
 ### Transition (T)
 

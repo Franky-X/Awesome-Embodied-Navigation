@@ -16,15 +16,18 @@ Embodied navigation (EN) is a novel problem of conducting advanced egocentric na
 ![image](images/Framework.png)
 Firstly, the EN system requires the configuration of state modeling and action capabilities to define the state and action space, as well as the initial state distribution \( b(\mathbf{s}_0) \). Then, the EN system operates through the following stages:
 
-1. **State Transition (T)**. The key aspect of this stage is to configure \( T(\mathbf{s}_t|\mathbf{s}_{t-1},\mathbf{a}_t) \), so that the prior \( \hat{b}(\mathbf{s}_{t})=\sum_{\mathbf{s}_t \in \mathcal{S}} T(\mathbf{s}_t|\mathbf{s}_{t-1},\mathbf{a}_t) b(\mathbf{s}_{t-1}) \) is computed.
+Firstly, the EN system requires the configuration of state modeling and action capabilities to define the state and action space, as well as the initial state distribution b(s₀). Then, the EN system operates through the following stages:
 
-2. **Observation (O)**. In this stage, the EN system acquires environmental observation by ego perceptive sensors to determine \( O(\mathbf{o}_t|\mathbf{s}_t,\mathbf{a}_t) \).
+1. **State Transition (T)**. The key aspect of this stage is to configure T(sₜ | sₜ₋₁, aₜ), so that the prior b^(sₜ) = ∑(sₜ ∈ S) T(sₜ | sₜ₋₁, aₜ) b(sₜ₋₁) is computed.
 
-3. **Fusion (F)**. This stage fuses the information from \( \hat{b}(\mathbf{s}_{t}) \) and \( O(\mathbf{o}_t|\mathbf{s}_t,\mathbf{a}_t) \) to compute the optimal state distribution \( b(\mathbf{s}_t) = F(O(\mathbf{o}_t|\mathbf{s}_t,\mathbf{a}_t), \hat{b}(\mathbf{s}_{t})) \).
+2. **Observation (O)**. In this stage, the EN system acquires environmental observation by ego perceptive sensors to determine O(oₜ | sₜ, aₜ).
 
-4. **Task Reward Construction (R)**. Based on the task cognition, the EN system evaluates the contribution of current action \( \mathbf{a}_t \) and \( \mathbf{s}_t \) to the navigation goal and calculates the reward \( r(\mathbf{s}_t,\mathbf{a}_t) = \sum_{\mathbf{s}_t \in \mathcal{S}} R(\mathbf{s}_t,\mathbf{a}_t)b(\mathbf{s}_t) \).
+3. **Fusion (F)**. This stage fuses the information from b^(sₜ) and O(oₜ | sₜ, aₜ) to compute the optimal state distribution b(sₜ) = F(O(oₜ | sₜ, aₜ), b^(sₜ)).
 
-5. **Action (A)**. Finally, the EN system optimizes the action sequence \( \{\mathbf{a}_0,\mathbf{a}_1,\mathbf{a}_2,..\} \) by the skills of the agent to maximize the expectation of the accumulated reward \( E\left[\sum_{t=0}^\infty r^t \cdot r(\mathbf{s}_t,\mathbf{a}_t)\right] \), thereby efficiently achieving the navigation goals.
+4. **Task Reward Construction (R)**. Based on the task cognition, the EN system evaluates the contribution of current action aₜ and sₜ to the navigation goal and calculates the reward r(sₜ, aₜ) = ∑(sₜ ∈ S) R(sₜ, aₜ)b(sₜ).
+
+5. **Action (A)**. Finally, the EN system optimizes the action sequence {a₀, a₁, a₂, ...} by the skills of the agent to maximize the expectation of the accumulated reward E[∑(t=0 to ∞) r^t · r(sₜ, aₜ)], thereby efficiently achieving the navigation goals.
+
 
 
 |Embodied Navigation|Traditional Navigation|

@@ -34,6 +34,7 @@ Recently, an increasing number of works are proposed to solve the problems withi
 | Algorithm | EN Space | Modules | Categories | Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | OpenVINS | State Space | Body | Vector | 2020 | ICRA | [Link](https://ieeexplore.ieee.org/document/9196524) | [Link](https://github.com/rpng/open_vins) |
+| VINS-Mono | State Space | Body | Vector | 2018 | TRO | [Link](https://ieeexplore.ieee.org/document/8421746) | [Link](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) |
 
 ### Transition (T)
 

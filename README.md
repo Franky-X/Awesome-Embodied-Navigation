@@ -30,6 +30,25 @@ Recently, an increasing number of works are proposed to solve the problems withi
 ## 2. Summary and Integration of current works into TOFRA
 
 ### Space Configuration
+| **EN Space**         | **Modules**        | **Categories**              | **References**                             |
+|----------------------|--------------------|-----------------------------|--------------------------------------------|
+| **State Space**      | **Body**           | Vector                      | [SP_Vector_OpenVINS, SP_Vector_VINS_Mono] |
+|                      |                    | Lie Group                  | [SP_InEKF_OB, SP_PIEKF, SP_InEKF]         |
+|                      |                    | Quaternion-Based           | [SP_TriQ]                                  |
+|                      |                    | Implicit                   | [SP_VXN, SP_MTR, SP_SVN]                   |
+|                      |                    | Neuromorphic               |                                            |
+|                      | **Environment**    | Point Cloud                | [SP_ENV_PCL]                               |
+|                      |                    | Voxel                      | [SP_ENV_OCC]                               |
+|                      |                    | Implicit                   | [SP_ENV_IMP]                               |
+|                      |                    | Neuromorphic               |                                            |
+| **Action Space**     | **Low-level Control** | Ground Wheel Vehicles     | [AC_KITTI, AC_CARLA]                       |
+|                      |                    | UAVs/AUVs                 | [AC_UAV, AC_AUV]                           |
+|                      |                    | Legged Robots              | [AC_ANY, AC_MIT, AC_ANY_3D, AC_ALOC, AC_Humanoid] |
+|                      |                    | Wheel-Legged Robots       | [AC_WL, AC_WL_SR]                          |
+|                      | **High-level Command** | Legged Robots            | [AC_LR_HIGH]                               |
+|                      |                    | Wheel-Legged Robots       | [AC_WL_SR]                                 |
+
+
 
 ### Transition (T)
 

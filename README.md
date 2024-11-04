@@ -12,21 +12,16 @@ We are excited to invite researchers and experts in the field of embodied naviga
 
 ## 1. Embodied Navigation Paradigm and Elements
 
-### 1.1 Definition
-The **Embodied Navigation System** is a fully autonomous navigation system with **Interactive Perception**, **Neuromorphic Cognition**, and **Motion Execution** capabilities.
+Embodied navigation (EN) is a novel problem of conducting advanced egocentric navigation tasks through state estimation, task cognition and motion execution for an autonomous robot. Compared with traditional navigation, EN is stressed with the key features of 1) egocentric sensing, 2) interactive engagement with the environment through high degrees of freedom in actions and 3) high-level cognition for complex tasks.
 ![image](images/Framework.png)
-### 1.2 Embodied Navigation Paradigm
-Given an intelligent agent with a certain degree of freedom, which follows specific motion rules and has hardware parameters, equipped with sensors capable of acquiring extensive environmental observations, we aim to establish a differentiable objective function. This function is designed for joint optimization of the state space and motion space, providing outputs for environment state, motion execution, and agent state.
-![image](images/Paradigm.png)
-
-The primary characteristic of this paradigm lies in the **joint optimization and solving of the agent's state, environmental state, and agent motion**. In contrast to prior navigation methods that may have focused solely on optimizing the agent's state, or SLAM problems which crucially consider the agent and environment, embodied navigation **additionally optimizes its own motion execution**.
-
-To better describe the problem setup of embodied navigation, we use the random process for modeling of the framework.
-![image](images/Prob.png)
-
-To better understand the modules in the framework, we define several levels of each module. The darker colors mean more advanced levels.
-![image](images/Level.png)
-### 1.3 Key Elements of Embodied Navigation
+Firstly, the EN system requires the configuration of state modeling and action action capabilities to define the state and action space, as well as the initial state distribution $b(\mathbf{s}_0)$. Then, the EN system operates through the following stages:
+\begin{enumerate}
+    \item State transition (T). The key aspect of this stage is to configure $T(\mathbf{s}_t|\mathbf{s}_{t-1},\mathbf{a}_t)$, so that the prior $\hat{b}(\mathbf{s}_{t})=\sum_{\mathbf{s}_t \in \mathcal{S}} T(\mathbf{s}_t|\mathbf{s}_{t-1},\mathbf{a}_t) b(\mathbf{s}_{t-1})$ is computed.
+    \item Observation (O). In this stage, the EN system acquires environmental observation by ego perceptive sensors to determine $O(\mathbf{o}_t|\mathbf{s}_t,\mathbf{a}_t)$.
+    \item Fusion (F). This stage fuses the information from $\hat{b}(\mathbf{s}_{t})$ and $O(\mathbf{o}_t|\mathbf{s}_t,\mathbf{a}_t)$ to compute the optimal state distribution $b(\mathbf{s}_t) = F(O(\mathbf{o}_t|\mathbf{s}_t,\mathbf{a}_t), \hat{b}(\mathbf{s}_{t}))$.
+    \item Task Reward Construction (R). Based on the task cognition, the EN system evaluates the contribution of current action $\mathbf{a}_t$ and $\mathbf{s}_t$ to the navigation goal and calculate the reward $r(\mathbf{s}_t,\mathbf{a}_t) = \sum_{\mathbf{s}_t \in \mathcal{S}} R(\mathbf{s}_t,\mathbf{a}_t)b(\mathbf{s}_t)$.
+    \item Action (A). Finally, the EN system optimizes the action sequence $\{\mathbf{a}_0,\mathbf{a}_1,\mathbf{a}_2,..\}$ by the skills of the agent to maximize the expectation of the accumulated reward $E[\sum_{t=0}^\infty r^t \cdot r(\mathbf{s}_t,\mathbf{a}_t)]$, thereby the navigation goals can be efficiently achieved. 
+\end{enumerate}
 
 |Embodied Navigation|Traditional Navigation|
 |-------------------|----------------------|

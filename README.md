@@ -15,38 +15,7 @@ We are excited to invite researchers and experts in the field of embodied naviga
 Embodied navigation (EN) is a novel problem of conducting advanced egocentric navigation tasks through state estimation, task cognition and motion execution for an autonomous robot. Compared with traditional navigation, EN is stressed with the key features of 1) egocentric sensing, 2) interactive engagement with the environment through high degrees of freedom in actions and 3) high-level cognition for complex tasks.
 ![image](images/Framework.png)
 
-Firstly, the EN system requires the configuration of state modeling and action capabilities to define the state and action space, as well as the initial state distribution \( b(\mathbf{s}_0) \). The EN system operates through the following stages:
-
-1. **State Transition (T)**  
-   The key aspect of this stage is to configure [T(\mathbf{s}_t | \mathbf{s}_{t-1}, \mathbf{a}_t)], so that the prior 
-   [\hat{b}(\mathbf{s}_{t}) = \sum_{\mathbf{s}_t \in \mathcal{S}} T(\mathbf{s}_t | \mathbf{s}_{t-1}, \mathbf{a}_t) b(\mathbf{s}_{t-1})] 
-   is computed.
-
-2. **Observation (O)**  
-   In this stage, the EN system acquires environmental observation by ego perceptive sensors to determine 
-   \[
-   O(\mathbf{o}_t | \mathbf{s}_t, \mathbf{a}_t).
-   \]
-
-3. **Fusion (F)**  
-   This stage fuses the information from \( \hat{b}(\mathbf{s}_{t}) \) and \( O(\mathbf{o}_t | \mathbf{s}_t, \mathbf{a}_t) \) to compute the optimal state distribution 
-   \[
-   b(\mathbf{s}_t) = F(O(\mathbf{o}_t | \mathbf{s}_t, \mathbf{a}_t), \hat{b}(\mathbf{s}_{t})).
-   \]
-
-4. **Task Reward Construction (R)**  
-   Based on the task cognition, the EN system evaluates the contribution of current action \( \mathbf{a}_t \) and \( \mathbf{s}_t \) to the navigation goal and calculates the reward 
-   \[
-   r(\mathbf{s}_t, \mathbf{a}_t) = \sum_{\mathbf{s}_t \in \mathcal{S}} R(\mathbf{s}_t, \mathbf{a}_t) b(\mathbf{s}_t).
-   \]
-
-5. **Action (A)**  
-   Finally, the EN system optimizes the action sequence \( \{\mathbf{a}_0, \mathbf{a}_1, \mathbf{a}_2, \ldots\} \) by the skills of the agent to maximize the expectation of the accumulated reward 
-   \[
-   E\left[\sum_{t=0}^{\infty} r^t \cdot r(\mathbf{s}_t, \mathbf{a}_t)\right],
-   \] 
-   thereby efficiently achieving the navigation goals.
-
+Recently, an increasing number of works are proposed to solve the problems within the EN system. However, existing studies tend to focus on specific sub-issues, lacking a coherent and unified framework. Consequently, the systematic level and real-world application of EN now remain constrained due to the absence of a comprehensive problem formulation. To this end, we propose a unified formulation for EN, structured into five stages: transition, observation, fusion, task reward construction and action skills optimization (TOFRA).
 
 
 |Embodied Navigation|Traditional Navigation|

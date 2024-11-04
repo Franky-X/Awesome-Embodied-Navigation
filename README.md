@@ -7,8 +7,7 @@ This is a repository of embodied navigation survey **led by MSP group from Shang
 In this repository, you can learn the concept of embodied navigation and find the state-of-the-arts works related to this topic. 
 
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️.
-## Call for Cooperators: Join Us in Advancing Embodied Navigation Research
-We are excited to invite researchers and experts in the field of embodied navigation to collaborate on an innovative paper aimed at pushing the boundaries of autonomous navigation systems. Our goal is to explore the intersection of interactive perception, neuromorphic cognition, and evolutionary motion capabilities in the development of cutting-edge embodied navigation systems.(Contact: sjtu4742986@sjtu.edu.cn)
+
 
 ## 1. Embodied Navigation Paradigm and Elements
 
@@ -374,17 +373,6 @@ Reinforcement Learning | Wheel-leg | 2023 | ICRA | [Link](https://www.youtube.co
 | --- | --- | --- | --- | --- |
 | RFUniverse: A Multiphysics Simulation Platform for Embodied AI | 2023 | arxiv | [Link](https://arxiv.org/abs/2202.00199) | [Code](https://github.com/robotflow-initiative/rfuniverse) |
 
-### Reality
-
-## 6. Open Research Problems
-
-### Adaptive Scale and Complex Environment
-
-### Joint Optimization
-
-### Generality
-
-## 6. Conclusions
-
-## 7. Acknowledgement
+## Call for Cooperators: Join Us in Advancing Embodied Navigation Research
+We are excited to invite researchers and experts in the field of embodied navigation to collaborate on an innovative paper aimed at pushing the boundaries of autonomous navigation systems. Our goal is to explore the intersection of interactive perception, neuromorphic cognition, and evolutionary motion capabilities in the development of cutting-edge embodied navigation systems.(Contact: sjtu4742986@sjtu.edu.cn)
 

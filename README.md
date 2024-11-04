@@ -63,6 +63,39 @@ Recently, an increasing number of works are proposed to solve the problems withi
 
 ### Transition (T)
 
+| Transition Levels | Modules | Categories | Algorithm| Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Dynamics | Pre-integration | Trapezoidal | --- | --- | --- | --- | --- |
+| Dynamics | Pre-integration | Runge-Kutta | --- | --- | --- | --- | --- |
+| Dynamics | Pre-integration | Polynomials | --- | --- | --- | --- | --- |
+| Dynamics | Dynamics | Wheel Vehicles | --- | --- | --- | --- | --- |
+| Dynamics | Dynamics | UAV/AUVs | --- | --- | --- | --- | --- |
+| Dynamics | Dynamics | UAV/AUVs | --- | --- | --- | --- | --- |
+| Dynamics | Dynamics | Legged Robots | --- | --- | --- | --- | --- |
+| Dynamics | Dynamics | Wheel-Legged | --- | --- | --- | --- | --- |
+| Dynamics | Mult-node | Pedestrian | --- | --- | --- | --- | --- |
+| Dynamics | Mult-node | Pedestrian | --- | --- | --- | --- | --- |
+| Dynamics | Mult-node | Pedestrian | --- | --- | --- | --- | --- |
+| Dynamics | Mult-node | Ground Vehicles | --- | --- | --- | --- | --- |
+| Dynamics | Mult-node | Legged Robots | --- | --- | --- | --- | --- |
+| Motion Cognition | Stationary Detection | Classic Model | --- | --- | --- | --- | --- |
+| Motion Cognition | Stationary Detection | Classic Model | --- | --- | --- | --- | --- |
+| Motion Cognition | Stationary Detection | Deep Learning | --- | --- | --- | --- | --- |
+| Motion Cognition | Activity Recognition | IMUs Only | --- | --- | --- | --- | --- |
+| Motion Cognition | Activity Recognition | IMUs Only | --- | --- | --- | --- | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
+| Motion Cognition | Activity Recognition | Multi Modalities | --- | --- | --- | --- | --- |
+| End-to-end | Neural Networks | IMU Denoising | --- | --- | --- | --- | --- |
+| End-to-end | Neural Networks | IMU Denoising | --- | --- | --- | --- | --- |
+| End-to-end | Neural Networks | IMU Denoising | --- | --- | --- | --- | --- |
+| End-to-end | Neural Networks | IMU Denoising | --- | --- | --- | --- | --- |
+| End-to-end | Neural Networks | Direct End-to-end | --- | --- | --- | --- | --- |
+| End-to-end | Neural Networks | Direct End-to-end | --- | --- | --- | --- | --- |
+| End-to-end | Neural Networks | Direct End-to-end | --- | --- | --- | --- | --- |
+
 ### Observation (O)
 
 ### Fusion (F)

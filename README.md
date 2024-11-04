@@ -31,18 +31,6 @@ Recently, an increasing number of works are proposed to solve the problems withi
 
 ### Space Configuration
 
-| Reference | EN Space | Modules | Categories | Date | Publication | Paper Link | Code |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| OpenVINS | State Space | Body | Vector | 2020 | ICRA | [Link](https://ieeexplore.ieee.org/document/9196524) | [Link](https://github.com/rpng/open_vins) |
-| VINS-Mono | State Space | Body | Vector | 2018 | TRO | [Link](https://ieeexplore.ieee.org/document/8421746) | [Link](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) |
-| IEKF as a Stable Observer | State Space | Body | Lie Group | 2017 | TAC | [Link](https://ieeexplore.ieee.org/document/7523335/authors#authors) | --- |
-| PIEKF-VIWO | State Space | Body | Lie Group | 2023 | ICRA | [Link](https://ieeexplore.ieee.org/document/10160380) | --- |
-| Convergence and Consistency Analysis for a 3-D Invariant-EKF SLAM | State Space | Body | Lie Group | 2017 | RA-L | [Link](https://ieeexplore.ieee.org/abstract/document/7812660) | --- |
-| A Trident Quaternion Framework for Inertial-Based Navigation Part I: Rigid Motion Representation and Computation | State Space | Body | Quaternion-Based | 2022 | TAES | [Link](https://ieeexplore.ieee.org/document/9640520) | --- |
-| Towards Versatile Embodied Navigation | State Space | Body | Implicit | 2022 | TAES | [Link](https://ieeexplore.ieee.org/document/9640520) | [Link](https://github.com/hanqingwangai/VXN) |
-| Scene Memory Transformer for Embodied Agents in Long Time Horizon Tasks
- | State Space | Body | Implicit | 2019 | CVPR | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Fang_Scene_Memory_Transformer_for_Embodied_Agents_in_Long-Horizon_Tasks_CVPR_2019_paper.html) | --- |
-
 | EN Space | Modules | Categories | Algorithm| Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | State Space | Body | Vector | OpenVINS | 2020 | ICRA | [Link](https://ieeexplore.ieee.org/document/9196524) | [Link](https://github.com/rpng/open_vins) |
@@ -53,6 +41,8 @@ Recently, an increasing number of works are proposed to solve the problems withi
 | State Space | Body | Quaternion-Based | A Trident Quaternion Framework for Inertial-Based Navigation Part I: Rigid Motion Representation and Computation | 2022 | TAES | [Link](https://ieeexplore.ieee.org/document/9640520) | --- |
 | State Space | Body | Implicit | Towards Versatile Embodied Navigation | 2022 | TAES | [Link](https://ieeexplore.ieee.org/document/9640520) | [Link](https://github.com/hanqingwangai/VXN) |
 | State Space | Body | Implicit | Scene Memory Transformer for Embodied Agents in Long Time Horizon Tasks | 2019 | CVPR | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Fang_Scene_Memory_Transformer_for_Embodied_Agents_in_Long-Horizon_Tasks_CVPR_2019_paper.html) | --- |
+| State Space | Body | Implicit | Zero Experience Required | 2022 | CVPR | [Link](https://ieeexplore.ieee.org/abstract/document/9878587) | [Link](https://github.com/ziadalh/zero_experience_required) |
+| State Space | Body | Neuromophic | --- | 2022 | CVPR | [Link](https://ieeexplore.ieee.org/abstract/document/9878587) | [Link](https://github.com/ziadalh/zero_experience_required) |
 
 ### Transition (T)
 

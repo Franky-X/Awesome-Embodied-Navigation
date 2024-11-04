@@ -43,7 +43,7 @@ Recently, an increasing number of works are proposed to solve the problems withi
 | Scene Memory Transformer for Embodied Agents in Long Time Horizon Tasks
  | State Space | Body | Implicit | 2019 | CVPR | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/Fang_Scene_Memory_Transformer_for_Embodied_Agents_in_Long-Horizon_Tasks_CVPR_2019_paper.html) | --- |
 
-| EN Space | Modules | Categories | Reference | Date | Publication | Paper Link | Code |
+| EN Space | Modules | Categories | Algorithm| Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | State Space | Body | Vector | OpenVINS | 2020 | ICRA | [Link](https://ieeexplore.ieee.org/document/9196524) | [Link](https://github.com/rpng/open_vins) |
 | State Space | Body | Vector | VINS-Mono | 2018 | TRO | [Link](https://ieeexplore.ieee.org/document/8421746) | [Link](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) |

@@ -31,6 +31,10 @@ Recently, an increasing number of works are proposed to solve the problems withi
 
 ### Space Configuration
 
+| Algorithm | EN Space | Modules | Categories | Date | Publication | Paper Link | Code |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| OpenVINS | State Space | Body | Vector | 2020 | ICRA | [Link](https://ieeexplore.ieee.org/document/9196524) | [Link](https://github.com/rpng/open_vins) |
+
 ### Transition (T)
 
 ### Observation (O)

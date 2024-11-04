@@ -75,8 +75,7 @@ Recently, an increasing number of works are proposed to solve the problems withi
 | Dynamics | Dynamics | Wheel-Legged | Whole-Body MPC and Online Gait Sequence Generation for Wheeled-Legged Robots | 2021 | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/9636371) | --- |
 | Dynamics | Mult-node | Pedestrian | Estimating Lower Limb Kinematics Using a Reduced Wearable Sensor Count | 2021 | TBME | [Link](https://ieeexplore.ieee.org/document/9205648) | --- |
 | Dynamics | Mult-node | Pedestrian | Estimating Lower Limb Kinematics using Distance Measurements with a Reduced Wearable Inertial Sensor Count | 2020 | EMBC | [Link](https://ieeexplore.ieee.org/document/9175684) | --- |
-| Dynamics | Mult-node | Pedestrian | Sensor network oriented human motion capture via
-wearable intelligent system | 2021 | IJIS | [Link](https://onlinelibrary.wiley.com/doi/10.1002/int.22689?msockid=21f27229bd326658052c6731bc716797) | --- |
+| Dynamics | Mult-node | Pedestrian | Sensor network oriented human motion capture via wearable intelligent system | 2021 | IJIS | [Link](https://onlinelibrary.wiley.com/doi/10.1002/int.22689?msockid=21f27229bd326658052c6731bc716797) | --- |
 | Dynamics | Mult-node | Ground Vehicles | Multi-aided Inertial Navigation for Ground Vehicles in Outdoor Uneven Environments | 2005 | ICRA | [Link](https://ieeexplore.ieee.org/document/1570846) | --- |
 | Dynamics | Mult-node | Legged Robots | MIPO | 2023 | IROS | [Link](https://ieeexplore.ieee.org/document/10342061) | [Link](https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry) |
 | Motion Cognition | Stationary Detection | Classic Model | A Novel Position and Orientation System for Pedestrian Indoor Mobile Mapping System | 2021 | IEEE Sensors Journal | [Link](https://ieeexplore.ieee.org/document/9169888) | --- |

@@ -18,16 +18,37 @@ Firstly, the EN system requires the configuration of state modeling and action c
 
 Firstly, the EN system requires the configuration of state modeling and action capabilities to define the state and action space, as well as the initial state distribution b(s₀). Then, the EN system operates through the following stages:
 
-1. **State Transition (T)**. The key aspect of this stage is to configure T(sₜ | sₜ₋₁, aₜ), so that the prior b^(sₜ) = ∑(sₜ ∈ S) T(sₜ | sₜ₋₁, aₜ) b(sₜ₋₁) is computed.
+1. **State Transition (T)**  
+   The key aspect of this stage is to configure \( T(s_t | s_{t-1}, a_t) \), so that the prior 
+   \[
+   \hat{b}(s_t) = \sum_{s_t \in S} T(s_t | s_{t-1}, a_t) b(s_{t-1}) 
+   \] 
+   is computed.
 
-2. **Observation (O)**. In this stage, the EN system acquires environmental observation by ego perceptive sensors to determine O(oₜ | sₜ, aₜ).
+2. **Observation (O)**  
+   In this stage, the EN system acquires environmental observation by ego perceptive sensors to determine 
+   \[
+   O(o_t | s_t, a_t).
+   \]
 
-3. **Fusion (F)**. This stage fuses the information from b^(sₜ) and O(oₜ | sₜ, aₜ) to compute the optimal state distribution b(sₜ) = F(O(oₜ | sₜ, aₜ), b^(sₜ)).
+3. **Fusion (F)**  
+   This stage fuses the information from \( \hat{b}(s_t) \) and \( O(o_t | s_t, a_t) \) to compute the optimal state distribution 
+   \[
+   b(s_t) = F(O(o_t | s_t, a_t), \hat{b}(s_t)).
+   \]
 
-4. **Task Reward Construction (R)**. Based on the task cognition, the EN system evaluates the contribution of current action aₜ and sₜ to the navigation goal and calculates the reward r(sₜ, aₜ) = ∑(sₜ ∈ S) R(sₜ, aₜ)b(sₜ).
+4. **Task Reward Construction (R)**  
+   Based on the task cognition, the EN system evaluates the contribution of current action \( a_t \) and \( s_t \) to the navigation goal and calculates the reward 
+   \[
+   r(s_t, a_t) = \sum_{s_t \in S} R(s_t, a_t)b(s_t).
+   \]
 
-5. **Action (A)**. Finally, the EN system optimizes the action sequence {a₀, a₁, a₂, ...} by the skills of the agent to maximize the expectation of the accumulated reward E[∑(t=0 to ∞) r^t · r(sₜ, aₜ)], thereby efficiently achieving the navigation goals.
-
+5. **Action (A)**  
+   Finally, the EN system optimizes the action sequence \( \{a_0, a_1, a_2, \ldots\} \) by the skills of the agent to maximize the expectation of the accumulated reward 
+   \[
+   E\left[\sum_{t=0}^{\infty} r^t \cdot r(s_t, a_t)\right],
+   \] 
+   thereby efficiently achieving the navigation goals.
 
 
 |Embodied Navigation|Traditional Navigation|

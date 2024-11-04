@@ -65,13 +65,13 @@ Recently, an increasing number of works are proposed to solve the problems withi
 
 | Transition Levels | Modules | Categories | Algorithm| Date | Publication | Paper Link | Code |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dynamics | Pre-integration | Trapezoidal | --- | --- | --- | --- | --- |
-| Dynamics | Pre-integration | Runge-Kutta | --- | --- | --- | --- | --- |
-| Dynamics | Pre-integration | Polynomials | --- | --- | --- | --- | --- |
-| Dynamics | Dynamics | Wheel Vehicles | --- | --- | --- | --- | --- |
-| Dynamics | Dynamics | UAV/AUVs | --- | --- | --- | --- | --- |
-| Dynamics | Dynamics | UAV/AUVs | --- | --- | --- | --- | --- |
-| Dynamics | Dynamics | Legged Robots | --- | --- | --- | --- | --- |
+| Dynamics | Pre-integration | Trapezoidal | VINS-Mono | 2018 | TRO | [Link](https://ieeexplore.ieee.org/document/8421746) | [Link](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) |
+| Dynamics | Pre-integration | Runge-Kutta | OpenVINS | 2020 | ICRA | [Link](https://ieeexplore.ieee.org/document/9196524) | [Link](https://github.com/rpng/open_vins) |
+| Dynamics | Pre-integration | Polynomials | iNavFIter | 2020 | TAES | [Link](https://ieeexplore.ieee.org/document/8844820) | [Link](https://github.com/iNavFlight/inav) |
+| Dynamics | Dynamics | Wheel Vehicles | --- | 2010 | Ground Vehicle Dynamics | [Link](https://link.springer.com/book/10.1007/978-3-540-68553-1) | --- |
+| Dynamics | Dynamics | UAV/AUVs | Modelling, simulation and implementation of a quadrotor UAV | 2013 | ICIIS | [Link](https://ieeexplore.ieee.org/document/6731982) | --- |
+| Dynamics | Dynamics | UAV/AUVs | AUV Trajectory Tracking Models and Control Strategies | 2021 | JMSE | [Link](https://www.mdpi.com/2077-1312/9/9/1020) | --- |
+| Dynamics | Dynamics | Legged Robots | 56 | --- | --- | --- | --- |
 | Dynamics | Dynamics | Wheel-Legged | --- | --- | --- | --- | --- |
 | Dynamics | Mult-node | Pedestrian | --- | --- | --- | --- | --- |
 | Dynamics | Mult-node | Pedestrian | --- | --- | --- | --- | --- |

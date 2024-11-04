@@ -4,8 +4,11 @@
 
 **Main Organizer**: Chaoran Xiong, PhD Candidate (https://franky-x.github.io/cv/)
 
-**Motor Execution Section**: 
-
+**Team Members**: 
+- Fangyu Jiang, Master Student
+- Jingchen Cao, PhD Student
+- Xinhao Hu, Bachlor
+- Zhen Sun, PhD Student
 - Kehui Ma, PhD Student (https://github.com/SJTU-MKH)
 
 ## Tsinghua University

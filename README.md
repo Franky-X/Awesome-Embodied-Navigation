@@ -79,7 +79,7 @@ Recently, an increasing number of works are proposed to solve the problems withi
 wearable intelligent system | 2021 | IJIS | [Link](https://onlinelibrary.wiley.com/doi/10.1002/int.22689?msockid=21f27229bd326658052c6731bc716797) | --- |
 | Dynamics | Mult-node | Ground Vehicles | Multi-aided Inertial Navigation for Ground Vehicles in Outdoor Uneven Environments | 2005 | ICRA | [Link](https://ieeexplore.ieee.org/document/1570846) | --- |
 | Dynamics | Mult-node | Legged Robots | MIPO | 2023 | IROS | [Link](https://ieeexplore.ieee.org/document/10342061) | [Link](https://github.com/ShuoYangRobotics/Multi-IMU-Proprioceptive-Odometry) |
-| Motion Cognition | Stationary Detection | Classic Model | A Novel Position and Orientation System for Pedestrian Indoor Mobile Mapping System | 2021 | IEEE Sensors Journal | [Link](https://ieeexplore.ieee.org/document/9169888） | --- |
+| Motion Cognition | Stationary Detection | Classic Model | A Novel Position and Orientation System for Pedestrian Indoor Mobile Mapping System | 2021 | IEEE Sensors Journal | [Link](https://ieeexplore.ieee.org/document/9169888) | --- |
 | Motion Cognition | Stationary Detection | Classic Model | A Novel Minimum Distance Constraint Method Enhanced Dual-Foot-Mounted Inertial Navigation System for Pedestrian Positioning | 2023 | IoT-J | [Link](https://ieeexplore.ieee.org/document/10110972) | --- |
 | Motion Cognition | Stationary Detection | Deep Learning | AI-IMU Dead-Reckoning | 2020 | TIV | [Link](https://ieeexplore.ieee.org/document/9035481) | [Link](https://github.com/mbrossar/ai-imu-dr) |
 | Motion Cognition | Activity Recognition | IMUs Only | MARS | 2021 | IoT-J | [Link](https://ieeexplore.ieee.org/document/9343342) | --- |

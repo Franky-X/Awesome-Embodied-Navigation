@@ -29,7 +29,7 @@ Recently, an increasing number of works are proposed to solve the problems withi
 
 ## 2. Summary and Integration of current works into TOFRA
 
-### Space
+### Space Configuration
 
 ### Transition (T)
 

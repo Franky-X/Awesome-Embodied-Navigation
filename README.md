@@ -99,6 +99,122 @@ Recently, an increasing number of works are proposed to solve the problems withi
 ### Observation (O)
 
 ### Fusion (F)
+  ------------------- --------------- ------------------ ------------------------------------------ ------ ------------------------------------------------------------------------- --------------------------------------------------------------------- -------------------------------------------------------------------------------
+  Categories          Basic Methods   Modalities         Algorithm                                  Date   Publication                                                               Paper Link                                                            Code
+
+  Explicit Bayesian   Kalman Filter   camera,IMU         Openvins                                   2020   ICRA                                                                      https://ieeexplore.ieee.org/document/9196524                          https://github.com/rpng/open\_vins
+
+  Explicit Bayesian   Kalman Filter   camera,IMU         Po-msckf                                   2024   online                                                                    https://arxiv.org/abs/2407.01888                                      
+
+  Explicit Bayesian   Kalman Filter   camera,IMU         Efficient invariant kalman filter          2024   online                                                                    https://arxiv.org/abs/2402.05003                                      
+
+  Explicit Bayesian   Kalman Filter   LiDAR,IMU          Fast-lio                                   2021   *IEEE Robotics and *                                                      https://ieeexplore.ieee.org/document/9372856                          https://github.com/hku-mars/FAST\_LIO
+                                                                                                                                                                                                                                                           
+                                                                                                           *Automation Letters*                                                                                                                            
+
+  Explicit Bayesian   Kalman Filter   LiDAR,IMU          Faster                                     2022   *IEEE Robotics and *                                                      https://ieeexplore.ieee.org/document/9718203                          https://github.com/gaoxiang12/faster-lio
+                                                                                                                                                                                                                                                           
+                                                         lio                                               *Automation Letters*                                                                                                                            
+
+  Explicit Bayesian   Kalman Filter   Event Camera,IMU   Event-based visual                         2017   CVPR                                                                      https://ieeexplore.ieee.org/document/8100099                          
+
+  Explicit Bayesian   Kalman Filter   Event Camera,IMU   Aevio                                      2023   *CONECCT*                                                                 https://ieeexplore.ieee.org/document/ib10234775                       
+
+  Explicit Bayesian   Kalman Filter   Event Camera,IMU   Event-and frame                            2024   *IEEE Robotics and Automation Letters*                                    https://ieeexplore.ieee.org/document/10342794                         
+                                                                                                                                                                                                                                                           
+                                                         based visual-inertia                                                                                                                                                                              
+
+  Explicit Bayesian   Kalman Filter   Event Camera,IMU   event camera-based odome                   2022   *IEEE Robotics and Automation Letters*                                    https://ieeexplore.ieee.org/document/9813406                          
+                                                                                                                                                                                                                                                           
+                                                         try                                                                                                                                                                                               
+
+  Explicit Bayesian   Kalman Filter   Radar,IMU          Radar inertial odometry                    2020   ENC                                                                       https://ieeexplore.ieee.org/abstract/document/9317343                 
+
+  Explicit Bayesian   Kalman Filter   Radar,IMU          Yaw aided radar inertial odometry          2021   ICINS                                                                     https://ieeexplore.ieee.org/document/9470842                          
+
+  Explicit Bayesian   Kalman Filter   Radar,IMU          Dero                                       2024   online                                                                    https://arxiv.org/abs/2403.05136                                      
+
+  Explicit Bayesian   Kalman Filter   Camera,LiDAR,IMU   Lic-fusion                                 2019   IROS                                                                      https://ieeexplore.ieee.org/document/8967746                          
+
+  Explicit Bayesian   Kalman Filter   Camera,LiDAR,IMU   Lic-fusion 2.0                             2020   IROS                                                                      https://ieeexplore.ieee.org/document/9340704                          
+
+  Explicit Bayesian   Kalman Filter   Camera,LiDAR,IMU   R2live                                     2021   online                                                                    https://arxiv.org/abs/2102.12400                                      
+
+  Explicit Bayesian   Kalman Filter   Camera,LiDAR,IMU   R3live                                     2021   online                                                                    https://arxiv.org/abs/2109.07982                                      
+
+  Explicit Bayesian   Optimization    Camera,IMU         Vins-mono                                  2018   *IEEE Transactions on Robotics*                                           https://ieeexplore.ieee.org/document/8421746                          
+
+  Explicit Bayesian   Optimization    Camera,IMU         Orb-slam3                                  2021   online                                                                    https://ieeexplore.ieee.org/document/9440682                          
+
+  Explicit Bayesian   Optimization    Camera,IMU         Ground-vio                                 2024   *IEEE Transactions on Intelligent Transportation *                        https://ieeexplore.ieee.org/document/10521492                         https://github.com/yaoli1992/ground\_vio
+                                                                                                                                                                                                                                                           
+                                                                                                           *Systems*                                                                                                                                       
+
+  Explicit Bayesian   Optimization    LiDAR,IMU          Tightly coupled 3d lidar                   2019   ICRA                                                                      https://ieeexplore.ieee.org/document/10521492                         
+
+  Explicit Bayesian   Optimization    LiDAR,IMU          Lio-sam                                    2020   IROS                                                                      https://ieeexplore.ieee.org/abstract/document/9341176                 https://github.com/TixiaoShan/LIO-SAM
+
+  Explicit Bayesian   Optimization    Event Camera,IMU   Monocular event visual inertial odometry   2022   IROS                                                                      https://ieeexplore.ieee.org/document/9981970                          
+
+  Explicit Bayesian   Optimization    Event Camera,IMU   Pl-evio                                    2023   *IEEE *                                                                   https://ieeexplore.ieee.org/document/10287884                         
+                                                                                                                                                                                                                                                           
+                                                                                                           *Transactions on Automation Science and Engineering*                                                                                            
+
+  Explicit Bayesian   Optimization    Event Camera,IMU   Tight fusion                               2024   ” *IEEE Transactions on *                                                 https://ieeexplore.ieee.org/document/10319103                         
+                                                                                                                                                                                                                                                           
+                                                                                                           *Robotics*                                                                                                                                      
+
+  Explicit Bayesian   Optimization    Radar,IMU          Less is more                               2024   online                                                                    https://arxiv.org/abs/2402.02200                                      
+
+  Explicit Bayesian   Optimization    Infrared,IMU       infrared-visible light fusion              2024   ICCA                                                                      https://ieeexplore.ieee.org/document/10591931                         https://github.com/DhyeyR-007/Twilight-SLAM-Navigating-Low-Light-Environments
+
+  Explicit Bayesian   Optimization    Camera,LiDAR,IMU   Lvi-sam                                    2021   online                                                                    https://ieeexplore.ieee.org/document/9561996                          https://github.com/TixiaoShan/LVI-SAM
+
+  Explicit Bayesian   Optimization    Camera,LiDAR,IMU   Lvio-fusion                                2024   *IEEE Robotics and Automation Letters*                                    https://ieeexplore.ieee.org/document/10452777                         
+
+  Explicit Bayesian   Optimization    Camera,LiDAR,IMU   d lidar                                    2024   *IEEE Robotics and Automation Letters*                                    https://ieeexplore.ieee.org/document/10631284                         
+                                                                                                                                                                                                                                                           
+                                                         visual-inertial                                                                                                                                                                                   
+
+  Explicit Bayesian   Optimization    Camera,LiDAR,IMU   Super                                      2021   IROS                                                                      https://ieeexplore.ieee.org/document/9635862                          
+                                                                                                                                                                                                                                                           
+                                                         odometry                                                                                                                                                                                          
+
+  Implicit Netural    Concatenation   Camera,IMU         Vinet                                      2017   online                                                                    https://ojs.aaai.org/index.php/AAAI/article/view/11215                
+
+  Implicit Netural    Concatenation   Camera,IMU         Deepvio                                    2019   IROS                                                                      https://arxiv.org/abs/1906.11435                                      
+
+  Implicit Netural    Concatenation   Camera,IMU         Hvionet                                    2022   online                                                                    :https://www.sciencedirect.com/                                       
+                                                                                                                                                                                                                                                           
+                                                                                                                                                                                     science/article/pii/S0893608022003355                                 
+
+  Implicit Netural    Concatenation   Camera,IMU         Unsupervised monoc                         2021   *Proceedings of the Twenty*                                               https://www.ijcai.org/Proceedings/2020/0325.pdf                       
+                                                                                                                                                                                                                                                           
+                                                         ular                                              *Ninth International Conference on International Joint Conferences on *                                                                         
+                                                                                                                                                                                                                                                           
+                                                                                                           *Artificial Intelligence*                                                                                                                       
+
+  Implicit Netural    Selection       Camera,IMU         deep visual and inertial                   2022   *arXiv preprint*                                                          https://arxiv.org/abs/2205.06187                                      
+                                                                                                                                                                                                                                                           
+                                                         odometry                                                                                                                                                                                          
+
+  Implicit Netural    Selection       Camera,IMU         Selfvio                                    2022   online                                                                    https://www.sciencedirect.com/science/article/pii/S0893608022000752   
+
+  Implicit Netural    Selection       Camera,IMU         Selective sensor fusion                    2019   CVPR                                                                      https://arxiv.org/abs/1903.01534                                      
+
+  Implicit Netural    Selection       Infrared,IMU       Deeptio                                    2020   *IEEE Robotics and Automation Letter*                                     https://ieeexplore.ieee.org/document/8968430                          
+
+  Implicit Netural    Selection       LiDAR,IMU          Synthetic deep neural network              2021   *International Journal *                                                  :https://doi.org/10.1007/s12555-020-0443-2                            
+                                                                                                                                                                                                                                                           
+                                                                                                           *of Control, Automation and Systems*                                                                                                            
+
+  Implicit Netural    Attention       Camera,IMU         Ema-vio                                    2022   *IEEE *                                                                   https://arxiv.org/abs/2209.08490                                      
+                                                                                                                                                                                                                                                           
+                                                                                                           *Sensors Journal*                                                                                                                               
+
+  Implicit Netural    Attention       Camera,IMU         Atvio                                      2021   ICASSP                                                                    https://ieeexplore.ieee.org/document/9413912                          
+  ------------------- --------------- ------------------ ------------------------------------------ ------ ------------------------------------------------------------------------- --------------------------------------------------------------------- -------------------------------------------------------------------------------
+
 
 ### Task Reward Construction (R)
 

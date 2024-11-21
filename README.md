@@ -215,6 +215,46 @@ Recently, an increasing number of works are proposed to solve the problems withi
 
 
 
+| Task Levels | Categories | Goal Understanding | Algorithm | Date | Publication | Paper Link |
+| --- | --- | --- | --- | --- | --- | --- |
+| Single Task | Point Goal | OBS + Geo Distance | typical visual odometry model | 2021 | ICCV | [Link](https://ieeexplore.ieee.org/document/9711349) |
+| Single Task | Point Goal | OBS + Geo Distance | Inverse Dynamics Auxiliary Network + Depth Auxiliary Network + Remaining Path Length Auxiliary Network | 2021 | WACV | [Link](https://ieeexplore.ieee.org/document/9423043) |
+| Single Task | Point Goal | OBS + Geo Distance |  odometry CNN+DD-PPO | 2021 | conference of RL | [Link](https://proceedings.mlr.press/v155/datta21a/datta21a.pdf) |
+| Single Task | Point Goal | OBS + Geo Distance | Decentralized Distributed Proximal Policy Optimization (DD-PPO) | 2020 | arxiv | [Link](https://arxiv.org/abs/1911.00357) |
+| Single Task | Image Goal | OBS/G Feature Fusion |  | 2022 | IROS | [Link](https://arxiv.org/pdf/2101.05181) |
+| Single Task | Image Goal | OBS/G Feature Fusion |  | 2022 | RAL | [Link](https://arxiv.org/abs/2108.06105) |
+| Single Task | Image Goal | OBS/G Feature Fusion |  | 2020 | arxiv | [Link](https://arxiv.org/abs/2405.14128) |
+| Single Task | Object Goal | Bounding Box |  | 2020 | CoRL | [Link](https://www.scopus.com/record/display.uri?eid=2-s2.0-85175869862&origin=resultslist&sort=plf-f&src=s&sid=c8b946e284649d28f9638fca354d20d0&sot=b&sdt=b&s=TITLE%28Learning+hierarchical+relationships+for+object-goal+navigation%29&sl=69&sessionSearchId=c8b946e284649d28f9638fca354d20d0&relpos=0) |
+| Single Task | Object Goal | Bounding Box |  | 2024 | arxiv | [Link](https://arxiv.org/abs/2405.14128) |
+| Single Task | Object Goal | Semantic |  | 2020 | NeurIPS | [Link](https://www.scopus.com/record/display.uri?eid=2-s2.0-85099842901&origin=resultslist&sort=plf-f&src=s&sid=c8b946e284649d28f9638fca354d20d0&sot=b&sdt=b&s=TITLE%28Object+goal+navigation+using+goal-oriented+semantic+exploration%29&sl=69&sessionSearchId=c8b946e284649d28f9638fca354d20d0&relpos=0) |
+| Single Task | Object Goal | Semantic |  | 2023 | CVPR | [Link](https://arxiv.org/pdf/2212.00338) |
+| Single Task | Object Goal | Semantic |  | 2022 | CVPR | [Link](https://www.scopus.com/record/display.uri?eid=2-s2.0-85141747753&origin=resultslist&sort=plf-f&src=s&sid=c8b946e284649d28f9638fca354d20d0&sot=b&sdt=b&s=TITLE%28Online+learning+of+reusable+abstract+models+for+object+goal+navigation%29&sl=69&sessionSearchId=c8b946e284649d28f9638fca354d20d0&relpos=0) |
+| Single Task | Object Goal | Semantic |  | 2023 | IROS | [Link](https://www.scopus.com/record/display.uri?eid=2-s2.0-85182525837&origin=resultslist&sort=plf-f&src=s&sid=f7d75731a77877873d22b2e476f10561&sot=b&sdt=b&s=TITLE%28Object+goal+navigation+with+recursive+implicit+maps%29&sl=58&sessionSearchId=f7d75731a77877873d22b2e476f10561&relpos=0) |
+| Single Task | Object Goal | Semantic |  | 2020 | LNCS | [Link](https://www.scopus.com/record/display.uri?eid=2-s2.0-85101787238&origin=resultslist&sort=plf-f&src=s&sid=269e4bf79a8e6ec8dba0270459d85c6e&sot=b&sdt=b&s=TITLE%28Exploiting+scene-specific+features+for+object+goal+navigation%29&sl=67&sessionSearchId=269e4bf79a8e6ec8dba0270459d85c6e&relpos=0) |
+| Single Task | Object Goal | Semantic |  | 2021 | IEEE RO-MAN | [Link](https://ieeexplore.ieee.org/document/9515530) |
+| Single Task | Exploration | Coverage |  |  |  |  |
+| Single Task | Exploration | Coverage |  |  |  |  |
+| Single Task | Exploration | Curiosity |  |  |  |  |
+| Multiple Tasks | Multi-Point Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Multi-Point Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Multi-Image Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Multi-Image Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Multi-Object Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Multi-Object Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Multi-Object Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Multi-Object Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Multi-Object Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Hybrid Goals | Co-Learning |  |  |  |  |
+| Multiple Tasks | Hybrid Goals | Co-Learning |  |  |  |  |
+| Language Instruct | Prompt Fine Tune | LLM |  |  |  |  |
+| Language Instruct | Prompt Fine Tune | LLM |  |  |  |  |
+| Language Instruct | Prompt Fine Tune | LLM |  |  |  |  |
+| Language Instruct | Prompt Fine Tune | LLM |  |  |  |  |
+| Language Instruct | Prompt Fine Tune | LLM |  |  |  |  |
+| Language Instruct | Train from Scratch | Tiny Model |  |  |  |  |
+
+
+
 ### Task Reward Construction (R)
 
 ### Action Skills Optimization (A)
